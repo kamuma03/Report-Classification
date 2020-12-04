@@ -1,0 +1,656 @@
+Combating Terrorism Center Logo
+Skip to content
+RESEARCH
+EDUCATION
+CTC SENTINEL
+NEWS
+ABOUT
+
+Remaining and Expanding: The Recovery of Islamic State Operations in Iraq in 2019-2020
+MAY 2020, VOLUME 13, ISSUE 5
+Authors:
+MICHAEL KNIGHTS, ALEX ALMEIDA
+
+Categories:
+IRAQOPERATIONS, PLOTS & ATTACKSSTRATEGY, HISTORY, & GOALSISLAMIC STATE & PREDECESSOR GROUPS
+SHARE VIA:   
+
+
+ PDF
+Abstract: The Islamic State has recovered from its territorial defeats since 2017 to mount a strong and sustained resurgence as an insurgent force inside Iraq. A new analysis of attack metrics from the past 18 months paints a picture of an Islamic State insurgency that has regained its balance, spread out across many more areas, and reclaimed significant tactical proficiency. Now operating at the same levels it achieved in 2012, a number of factors suggest that the Islamic State could further ramp up its rural insurgency in 2020 and 2021. An input of experienced cadres from Syria, a downturn in Iraqi and coalition effectiveness, and now the disruption of a combined COVID and economic crisis will likely all feed into an escalating campaign of attrition against the Iraqi state, military, and tribes.
+
+The Islamic State continues to show very significant resilience inside Iraq, undertaking a surge in attack activities in the second half of 2019 and the first quarter of 2020. According to the authors’ dataset, the number of reported Islamic State attacks increased from 1,470 in 2018 to 1,669 in 2019, with 566 reported attacks in the first quarter of 2020 alone.1 These national-level figures, supported by detailed qualitative and province-by-province breakdowns in the following sections, paint a picture of a militant organization that is reestablishing itself in Iraq, possibly drawing (in the authors’ assessment) on a cadre of experienced tactical leaders and bomb makers that returned from the Syrian battlefields in 2019.2 a As prior articles in CTC Sentinel have noted,3 the movement has undertaken an agile, fluid, and pragmatic shift back to insurgency in every area of Iraq where the group has lost physical control of populations and resources. In areas such as Diyala province, which this publication identified in 20164 as the likely future locus for Islamic State operations,5 the insurgency has been continuously operating since 2003 and is now recovering strongly, becoming the most active Islamic State wilaya (province) in 2019 and 2020.b
+
+This article extends the metrics-based analysis used in two prior CTC Sentinel pieces in 2017 and 2018,6 adding a further year and a half of Islamic State attack metrics in Iraq, picking up from October 2018 (where the last analysis ended) to the end of March 2020.c As in the prior study, this article looks at Islamic State attacks in Anbar, Salah al-Din, Baghdad’s rural “belts,”d Nineveh, Kirkuk, and Diyala. To maximize comparability, this analysis used exactly the same data collection and collation methodologye as the December 2018 CTC Sentinel study. Attacks were again broken down into explosivef or non-explosive events, and also by the four categories of high-quality attacks (effective roadside bombings,g attempts to overrun Iraqi security force checkpoints or outposts,h person-specific targeted attacks,i and attempted mass-casualty attacks).j Like any set of attack metrics, this analysis is drawing on a partial sample, which probably favors more visible attacks types (explosions, major attacks) over more subtle enemy-initiated actions (such as kidnap or intimidation). Nevertheless, much can be learned from the immersive, manual coding of thousands of geospatially-mapped attacks.
+
+In the following sections, the authors will look at national attacks trends, then proceed governorate-by-governorate to view the variegated nature of attack trends in different tactical environments, and finally review qualitative trends in attack quality and discuss the possible factors behind the Islamic State’s partial recovery inside Iraq.
+
+Overall National Trends in Islamic State Activity
+The December 2018 CTC Sentinel study of Islamic State attack metrics told the story of a steep decline in operational activities in Iraq in late 2017 that extended into the following year. The Islamic State undertook a monthly average of 490.6 attacks in 2017, dropping sharply to 122.5 per month in 2018.7 This decline continued into 2019, with attacks bottoming-out at an average of 97.3 attacks per month in the second quarter of 2019.8
+
+In every quarter since then, the overall national tally of Islamic State attacks has grown. In Q2 2019, there were 132 attacks per month, followed by 143.6 attacks per month in Q3 2019.9 In the last quarter of 2019, there were 183.3 attacks per month, and there were 188.6 attacks per month in Q1 2020.10 The year-on-year comparison of attacks in Q1 2019 versus Q1 2020 shows a 94% increase in attacks, from 292 in the first quarter of 2019 to 566 in the first quarter of this year.11 The almost doubling of attacks in a year is strong and steady recovery by anyone’s standards,k even if the Islamic State is still a shadow of its former self in overall attack numbers. According to the SIGACT database, in 2019, the Islamic State undertook 1,669 attacks in Iraq, much lower than the 5,888 in 2017 or the 6,216 in 2013, and a tiny fraction of the 50,159 enemy-initiated attacks in the year of peak violence in 2007.12
+
+A breakdown of the attack metrics by broad categories provides further insights into the nature of the partial recovery. At the national level, the proportion of explosive to non-explosive events stayed roughly stable over the coverage period (18 months or six quarters, from October 1, 2018, to March 31, 2020), with explosive incidents varying from 41-53% of all attacks across the quarters.13 Explosive incidents more than doubled in raw numbers between the low of 40.3 per month in Q1 2019 and 87.3 per month in Q1 2020.14 The rough mirroring of the increase in explosive attack events to the growth of all attack events provides reinforcing evidence of an overall trend of steady recovery of Islamic State attacks, due to the relatively high confidence analysts can have that explosive events will be missed less often and represent a more reliable category of metric (if counted diligently).l Once again, though the Islamic State is capable of delivering 826 explosive attacks a year (in 2019),15 this is still a pale shadow of the industrial-scale bombings of 2017 (2,868), 2013 (3,316), or even a previous low point of Islamic State operations in 2011 (1,704) when the group operated under the name the Islamic State of Iraq.16
+
+
+Figure 1: Iraq national attack trends, by attack type. The graph plots all attacks, high quality attacks, and the four types of high quality attacks (roadside bombs; overrun; mass casualty; targeted killing)
+At the national level, high-quality attacks (which also tend to be higher-visibility) also rose by 141%, from 104 high-quality attacks in Q1 2019 to 251 such incidents in Q1 2020.17 Between these two bookend quarters, the recovery was steady, with high-quality attacks rising to 153 in Q2 2019, 195 in Q3, and 298 in Q4.18 This recovery of quality attacks was not uniform across the different subclasses, however: 2019 witnessed strong growth in effective roadside bombings (from 308 in 2018 to 402 in 2019)19 and in overrun attempts on checkpoints and bases (from 135 in 2018 to 234 in 2019).20 The number of targeted killings (of tribal chiefs and village elders, called mukhtars) steeply declined from 167 in 2018 to 79 in 2019, as did attacks intended to create mass casualties (from 141 in 2018 to 59 in 2019).21 In Q1 2018, there were eight attempted mass-casualty attacks, reportedly causing 32 deaths and 124 persons wounded. In Q1 2019, there were five attempted mass-casualty attacks and 11 killed and 51 wounded. In Q1 2020, there were three attempted mass-casualty attacks, and two killed and 21 wounded. This suggests a downward trend in mass-casualty attacks and per attack lethality.22 Qualitative analysis of attack patterns at the local level (which will be explored in full in the below sections) suggests an influx of higher-quality tactical leaders and bomb makers in the second quarter of 2019, a date range that coincides with the collapse of the last pockets of Islamic State territorial control in Syria.m
+
+
+
+Some of the most interesting trends can be observed by looking at the differing situations in the provinces suffering from Islamic State insurgency—Anbar, Baghdad, Diyala, Kirkuk, Nineveh, and Salah al-Din. In 2018, Kirkuk was the most attacked province (370 attacks), followed by Diyala (340) and Baghdad (328).n In 2019, the order changed: Diyala was by far the most attacked (550), well ahead of newly second-ranked Nineveh (293), Kirkuk (228), Baghdad (214), Salah al-Din (142), and Anbar (105).23 o
+
+In Q1 2020, Kirkuk slipped even lower—ranked fifth of the six provinces in attack numbers with 46 attacks in the quarter (i.e., not comparable to the annual figures above).24 In the first quarter of this year, Diyala had the most attacks (140), followed by Baghdad (106) and Nineveh (97).p Across the last 27 months of metrics monitored by the authors (i.e., all of 2018 and 2019, plus Q1 2020), Diyala has been the most consistently active operating environment for the Islamic State, totaling 1,030 attacks, versus 644 for Kirkuk and 601 in Nineveh.q To dig more deeply into provincial dynamics and trends, the following sections will proceed governorate-by-governorate across the six areas.
+
+
+Figure 2a: Iraq provincial attack trends, by province (Note: The provincial boundaries are Iraqi provincial/governorate boundaries, not those of the Islamic State wilayat. One reason for this choice is that government provinces are stable boundaries, while Islamic State boundaries shift, allowing for comparable counting across years.)
+Anbar
+In the author’s December 2018 CTC Sentinel metrics analysis, Anbar had the fewest Islamic State attacks, and this pattern held for most of 2019.25 In 2018, the monthly average of Islamic State attacks in Anbar was 7.0, and in 2019, it showed little annual change at 8.7 per month.26 Yet the insurgency in Anbar showed signs of evolution even as attack numbers stayed low. From Q2 2019 onward, Anbar saw the return of attempted mass-casualty attacks, including tentative efforts to restore an ability to strike in cities like Ramadi and Hit.27 Intimidation of rural tribes increased, including terror tactics such as attempted suicide bombings targeting markets, mosques, and shepherds.28 Larger and newer-looking weapons caches began to show up in the Hit to Ramadi corridor, suggestive of materiel having been moved down the Euphrates River Valley in 2019 and staged within striking distance of Hit, Ramadi, Fallujah, and Baghdad.r
+
+By Q1 2020, Anbar was a much more active theater of war, with monthly average attacks jumping to 27.6—triple the average of 2019.29 Roadside bombings are now more common, tripling from 1.9 per month in 2019 to 6.6 per month in Q1 2020.30 A favored target set appears to be the soft-skinned civilian vehicles of the Popular Mobilization Force (PMF) units moving along the desert highway system between Al-Qaim and Rutbah, which are struck from rural redoubts on the high plateau of Wadi Horan, a launchpad that is ringed on all sides by major highways.31 The first quarter of 2020 also saw larger-scale tactical operations at platoon strength (30 or more men) with rocket-propelled grenades (RPGs) and mortars, as well as more sniper attacks and efforts to kill village mukhtars.32 As noted, Anbar ended Q1 2020 as the fourth most active province in Iraq for the Islamic State, but this trend requires constant monitoring because Anbar’s insurgency has a pattern of regular peaks and troughs over the last two years,33 possibly indicative of disruptive counterinsurgency by Iraq’s very active Jazeera and al-Badiyah Operations Command and Anbar Operations Command.s If the trend continues, then Anbar will have returned to roughly the attack levels seen in 2012, when there was an average of 33 attacks per month.34
+
+
+The areas around Lake Thar Thar (Brandon Mohr)
+Salah al-Din
+Whereas Salah al-Din was a consistent provider of attack metrics in the pre-2011 insurgency (being astride the north-south Main Supply Route of U.S. forces), it remains a comparatively sleepy province for today’s Islamic State. Consistently the lowest or second-lowest ranked province for attacks, Salah al-Din is nonetheless seeing signs of Islamic State recovery. In 2019, Islamic State attacks in Salah al-Din experienced four mini-surges (followed by dips) in January, May, September, and December, but each was stronger than the last one and left the overall attack numbers at a higher level after it concluded. Attacks per month rose from 13 in Q1 2019 to 24.6 in Q3 and 35 per month in Q4, and then stayed close to this level in Q1 2020.35 t For comparison, this is still far lower than the 116 monthly attacks in 2013 or the 84 monthly attacks in 2017, but higher than 2012 levels of 19 attacks per month.36
+
+In the authors’ assessment, the growth patterns in 2019 create the sense of an insurgency that is being primed and exercised, progressively warming-up different corners of the province. Qualitative analysis provides further insights. The strongest apparent trend is an injection of bomb-making and roadside bomb emplacement capability in Q3 2019,37 u as well as a shift toward taking on isolated checkpoints in stand-up fights involving platoon-sized Islamic State units,38 v suggestive (in the authors’ assessment) of improved tactical leadership. Counter-collaboration strikes on Sunni preachers and Tribal Mobilization Force officers are on the increase.39 There were three targeted killings in Salah al-Din in the first half of 2019 versus five in the second half of 2019.40 In the authors’ assessment, the strongest Islamic State operating environment in Salah al-Din is the Jallam Desert, which backs onto a range of target systems such as Samarra, the Alas oilfield, Tuz Khurmatu, and provincial borders with southern Kirkuk and western Diyala.41 w
+
+
+Figure 2b: Iraq provincial attack trends, by province (Note: The provincial boundaries are Iraqi provincial/governorate boundaries, not those of the Islamic State wilayat. One reason for this choice is that government provinces are stable boundaries, while Islamic State boundaries shift, allowing for comparable counting across years.)
+Nineveh
+Nineveh was fully liberated from Islamic State territorial control in August 2017 and was the scene of a patchy and reasonably weak Islamic State insurgency during 2018, averaging 17.5 attacks per month.42 As the December 2018 CTC Sentinel metrics analysis noted, however, the rate of attacks was steadily increasing by the end of 2018,43 x with a focus on the rural Tigris River Valley (TRV) areas south of Mosul city. This gradual increase gave way to a more sudden uptick in attacks in the second half of 2019, when there were 34.1 attacks per month, about double the 2018 levels.44 This rate of attacks was sustained in Q1 2020,45 y suggesting to the authors a fairly stable new plateau of attacks in Nineveh.
+
+Today’s insurgency in Nineveh is still miniscule compared to Islamic State performance in prior years: there were 278 attacks per month in 2013, of which 218.5 occurred in Mosul city.46 In March 2020, there were just 31 attacks in the province and no enemy-initiated attacks in the city.47 Available metrics starkly underline the deactivation of urban Mosul as an insurgent operating environment: In 2013, there were a total of 2,622 attacks in Mosul city, versus 22 in 2019.48 This means that Mosul suffered as many attacks in a year (2019) as were occurring every three days in 2013.49
+
+Out in the rural areas, the Islamic State has been much more active. The sustained surge of attacks since the summer of 2019 was driven primarily by a steep increase in the number and quality of roadside bombings.50 z In 2018, there were 4.1 effective roadside bombings per month in Nineveh, a rate that tripled to 13.1 such attacks per month in the second half of 2019 and which was sustained near this higher level in Q1 2020.51 aa As in other parts of Iraq, the third quarter of 2019 saw a gradual proliferation of advanced tactics by IED teams in Nineveh: “daisy-chaining” of multiple IEDs to expand kill zones, booby-trapping houses to kill security forces, and “come-on” attacks (using tactical actions to draw forces onto roadside bombs).52
+
+In 2018, the Islamic State had terrorized southern Nineveh’s TRV with “mukhtar slayings”—nocturnal raids to kill village leaders.53 Though the practice certainly has not stopped, it did become less frequent. In Q1 2018, an average of 5.3 such targeted assassinations were undertaken each month, while by Q1 2020 the rate had more than halved to two per month.54 One driver for this reduction in attacks on mukhtars may be the added protection granted by the activation in May 2019 of an expansive network of “village guard” forces in 50 villages in the TRV south of Mosul, an initiative developed specifically to give hamlets some capacity to defend against nocturnal raids.55 Despite this partial success, the Islamic State now has a wider range of attack cells operational in Nineveh than one year ago, with distinct attack groups operational in at least 11 areasab in Q1 2020, versus six in December 2018.
+
+
+Northwest Iraq (Brandon Mohr)
+Kirkuk
+Kirkuk poses a real analytical quandary, having been the most active province for Islamic State attacks in 2018 (with 30.8 attacks per month) but slipping to third ranking in 2019 (with 11.2 monthly attacks) and fifth ranking in Q1 2020 (with 15.3 monthly attacks, put in the shade by more active Islamic State cells in other provinces).56 Attack analysis reveals there was a steep decline in high-quality attacks in Kirkuk since 2018 (with an average of 15.1 high-quality attacks per month in 2018 and only 3.2 in the latter half of 2019 and 3.6 in Q1 2020).57 Roadside bombings halved in the same period, and “mukhtar slayings” appear to have almost disappeared (from 3.5 per month in 2018 to 0.75 per month in the latter half of 2019).58 ac Is this impression of a downturn in attacks credible, and if so, why did it occur against a backdrop of national-level Islamic State regrowth?
+
+First, it is worth remembering that Kirkuk was never a particularly high-tempo province for the Islamic State, even in its heyday. In 2013, the average number of monthly attacks was 57, and was just 26 per month in 2011.59 In the authors’ view, the insurgencies in Kirkuk—arguably a cluster of rather localized tribal resistance actions—have always had a detached and semi-autonomous feel.ad A primary factor may be the swamping of the Kirkuk rural heartland with security forces since later 2018, a trend that the December 2018 CTC Sentinel analysis noted was resulting in a downturn of attack numbers.60 The footprint of the security forces in rural areas of Kirkuk was systematically reinforced from around four Federal Police brigades in the first quarter of 2018 to the current total around 12 Federal Police and three army brigades.61 Federal Police operations also improved during the course of 2019 as they acclimated to the local conditions and geography, pushing out into peripheral rural areas and stepping up patrolling of secondary local road systems.62 The addition of a U.S. Special Forces effort based out of K1 airbase outside Kirkuk city in Q4 2018, which coordinated Iraqi counterinsurgency operations in the province (despite harassment by Iran-backed militias) and drove an aggressive campaign of raids into rural insurgent sanctuaries by Iraqi counterterrorism forces for most of 2019, further increased the pressure on the local insurgency.63
+
+Though fewer visible Islamic State attacks were logged in Kirkuk, the ferocity of the witnessed actions in 2019 cannot be doubted. The Islamic State managed to mount a series of small anti-civilian IED bombings against Kirkuk city in the middle months of the year as well as a vindictive harassment campaign against the villages of the Kakai micro-minorityae along the Kirkuk to Baghdad highway.64 af Though less frequently, community leaders have still been murdered and intimidated. (In one case, a tribal sheikh’s daughter was beheaded.65 ag) Insurgents have been kidnapping and ransoming farmersah and extorting money using the threat to destroy irrigation pumps and farm vehicles.66 Some of the most sophisticated roadside bombing techniques in Iraq were demonstrated in Kirkuk in the last year, such as IEDs set at insurgent mortar launch locations (to hit so-called “baseplate patrols” looking for the launch point), bombs used to kill quick reaction forces trying to reach a mukhtar site under attack, and the explosive booby-trapping of bodies.67
+
+Baghdad Belts
+Rural Baghdad functions not only as the outlying agricultural districts of the capital but also as a “ring road” for the Islamic State to pass fighters from the Euphrates River Valley (linking Syria and Anbar) toward other wilayat such as Salah al-Din and Diyala.ai Baghdad’s wealthy ‘exurbs,’ truck stops, and “farm-to-market” roads and transshipment points are also major potential money-makers.68 aj In 2017, as the December 2018 CTC Sentinel metrics study noted, the Islamic State mounted a very energetic rural intimidation and extortion campaign in the Baghdad belts, an effort that seemed to collapse by mid-2018 for obscure reasons.ak In the latter half of 2018 and the first half of 2019, the Islamic State’s attack metrics in rural Baghdad were weaker than at any time since the insurgency began in 2003.69 In 2019, Islamic State attacks in rural Baghdad averaged 17.8 per month, versus 33.6 per month in the insurgency’s previous national low point in 2011.70
+
+Relief did not last long. The level of Islamic State activity began a bounce back from early in the third quarter of 2019. In the first half of 2019, attacks averaged 11.3 per month, in the second half 24.3 per month, and in Q1 2020, the average reached 35.3 per month.71 Though still half of the 2017 average of 67.3 attacks per month, there has undoubtedly been a partial recovery of attack metrics in rural Baghdad.72 This has partly come from a rise in high-quality attacks, including a doubling of effective roadside bombings and a steep increase in overrun attacks on rural checkpoints and small patrol bases.73 For illustration, in the first half of 2019 there were two effective roadside bombings in rural Baghdad, versus 39 in the second half of the year and 22 alone in Q1 2020.74 Likewise, there were only two efforts to overrun rural checkpoints in the first half of 2019 versus 26 in the latter half and 10 in Q1 2020.75 By the start of 2020, the rural Baghdad area was back to the levels of violence seen at the start of 2018, albeit now focused primarily on security force targets as opposed to civilians.76
+
+The increase in Islamic State operations around Baghdad has manifested primarily in the northern and western belts. The northern Baghdad belts fall under the Islamic State’s Shamal al-Baghdad Wilayat, which also covers parts of neighboring southern Salah ad-Din province.77 Centered on the historic insurgent bastion of Tarmiyah, the area is a vital thoroughfare connecting a range of other geographic sub-sectors of the insurgency, including the Euphrates corridor west of Baghdad and the Tigris and Diyala river valley systems extending out to the north and east. In particular, the area seems to serve as hub for fighters and materiel flowing down the Euphrates River Valley (ERV) from Syria and pooling in the triangle between Hit, Fallujah/Karma, and the southern shores of Lake Thar Thar.78
+
+Since July 2019, the Islamic State has fought far harder to preserve and expand its rural freedom of movement in northern Baghdad areas like Tarmiyah, Mushahidah, Taji, and Soba Saab al-Bour.79 The Islamic State has seen a gradual evolution from a primarily assassination-based mode of resistance in the first half of 2019 to a more varied model that includes use of advanced IEDs and bombing tactics (daisy-chaining and come-on attacks), booby-trapped houses, and sniper operations.80 In western Baghdad, one factor boosting the province’s overall numbers was the reactivation of an effective roadside bombing cell in the Abu Ghraib area in 2019.81 In the southern belts, an old insurgent operating zone in Madain also reactivated, one factor resulting in southern Baghdad experiencing as many attacks in Q1 2020 as in the whole of 2019.al
+
+Diyala
+As flagged by the authors in a CTC Sentinel analysis in 2016,82 the Diyala wilaya has strong potential to be the most consistent producer of Islamic State attacks in Iraq because of the intense sectarian tensions in this cross-sectarian province and because the Islamic State never actually controlled Diyala and thus never had to suffer the disruption of adjusting back to an insurgency model. This has been borne out, with Diyala showing by far the highest aggregate provincial attack total over the last 27 months of monitoring.am The steep downturn in Diyala attacks recorded by the December 2018 CTC Sentinel metrics analysis has now been partially reversed. Though not back up to the 2017 average of 79.6 attacks per month, the second half of 2019 averaged 59.8 attacks per month before settling down to 45.8 attacks per month in Q1 2020.83 an This counts as strong and sustained partial recovery.
+
+
+Diyala and surrounding areas (Brandon Mohr)
+As ever, tactical and local trends in Diyala attacks tell a fascinating and grim story of communities at war in the Diyala River Valley. Like Kirkuk’s farmlands, Diyala has a somewhat disconnected dynamic all of its own, a war within a war, showing a quite different pattern from the Islamic State wilayat with closer connections to Syria and the western Iraqi deserts.84 Roadside bombing in Diyala did increase in quantity and quality during the second half of 2019, hinting at a similar injection of talent as seen in other areas.ao Yet the surge in Diyala was broader than IED employment, with overrun attempts on security force checkpoints quadrupling from 2.4 per month in 2018 to an average of 10 per month in the second half of 2019.85 ap Sniping attacks also proliferated, rising fourfold from an average of 1.8 attacks in the first half of 2019 to 7.6 attacks per month in the latter half of the year.86 aq Of note, the Islamic State’s use of snipers in Diyala seems particularly innovative, covering open locations where security forces can be predictably drawn for prolonged periods, such as mortar launch locations and emplaced IEDs.87
+
+In addition to excluding the security forces from its rural bastions along the Diyala River Valley, the Iranian border, and the provincial border with Salah al-Din, the Islamic State still finds time to wage brutal warfare against Kurds, Shi`a, and uncooperative Sunni tribes in Diyala. In each month, Diyala witnesses ethnic or sectarian cleansing activities by the Islamic State on a scale not seen in other provinces, far exceeding such efforts in the cross-sectarian melting pots of rural Baghdad or southern Salah al-Din.88 ar Increasing numbers of barrages of mortar shells are regularly fired from inaccessible rural redoubts into Shi`a, Kurdish, and Kakai villages,as even in more lethal and disruptive daytime bombardments.at Houses and crops are burned, irrigation machinery is destroyed, electricity lines are dropped, and very valuable livestock is slaughtered.89 For example, near Khanaqin in September 2019, the Islamic State rigged a herd of cows with IEDs and drove them into a Kurdish hamlet.90 In the authors’ assessment, the aim of anti-civilian attacks in Diyala appears to be not only to intimidate and extort, but even to depopulate, and there have been numerous village evacuations in the Mukhisa-Abu Saida-Muqdadiyah, Khanaqin, and Mutabijah areas.91 This extremely vindictive campaign—unfortunately, standard practice in Diyala since 200392—is beginning to re-extend into urban areas such as the provincial capital of Baquba, where a suicide vest bombing was attempted on an amusement park during the Eid al-Fitr holiday in June 2019.93
+
+
+
+Terrain Analysis and Tactical Trends
+There is enormous analytical value in getting ‘granular’ by immersing long-term subject matter experts in the detail of geolocated attack data, interview material, and social media-sourced imagery from attack and cache sites. In an age where artificial intelligence is beginning to usefully take over some of the ‘grunt work’ of sifting, collating, and characterizing attack metrics for governments in environments like Iraq,94 there is an ‘X factor’ that a human analyst brings in terms of pattern recognition and relation of trends to key geographies and human terrain. Human analysts can be particularly good at asking questions, by discerning mystifying and complex trends, and identifying ‘known unknowns’—the question that is simultaneously posed by quantitative data yet not easily answered by it.
+
+One such quandary is the Islamic State’s ‘hugging’ of a variety of hilly or ridgeline positionsau running between the Syrian and Iranian borders with Iraq. In many cases, the Islamic State has invested considerable effort to dig in to the slopes of anticlines and plateaus, seeding pre-existing and newly excavated caves with multipurpose caches that include food, water, solar-powered or liquid-fueled power generators, explosive devices, bulk explosives, bomb-making components, trail bikes, and even completed car bombs.95 The atomization of the Islamic State’s logistical tail and bed-down locations into hundreds of subterranean shelters recalls Hassan Hassan’s December 2017 description in this publication of “small, self-sustained, and autonomous localities to enable militants to defend their areas with minimal movement and without the need for resupply from other districts.”96 av
+
+These redoubts can be located perilously close to security force garrisons and might appear to be highly vulnerable to surveillance, raiding, and bombardment—or inviting the security forces to shoot fish in a barrel.aw Upon closer analysis, such positions—characterized by a high water table and rapid changes of elevation and uneven terrain—have obvious factors to recommend them. Though seemingly compact when viewed on a map,ax such areas contain masses of caves for the security forces to find and clear. Insurgents moving on foot or using trail bikes can relocate between such sites frequently.97 Many complexes are just 100-200ft elevated above the surrounding terrain but are poorly served by roads, while the more inaccessible ones are often elevated by 300ft (Ayadhiyah, Makhul, Khanukah, Pulkhana) and the highest by 400-1,200ft (the Qani Domlan, Hamrin,98 and Qara Chaugay).
+
+From the Islamic State point of view, where a set of foothills are not available, a high desert with deep-cut wadis and caves will do just as well.99 The Wadi Horan area of Anbar and the Lake Sunisilah area south of Baaj are remote and water-cut deserts with a low water table, with a similarly inhospitable and cave-pitted character to low mountain ranges.100 Another sanctuary is the sprawling wadi systems along the western edges of the Kirkuk rural belt, which back into the Hamrin range and cover some 800 square miles. In this area, wadi canyons restrict the movement of large vehicle-mounted forces, while also serving as natural movement corridors for foot-mobile insurgent raiding parties infiltrating into the farming areas around Hawijah and Daquq.101 Above-ground sanctuaries have been developed by the Islamic State in densely vegetated ‘green zones’—river delta areas and islands where vehicle movement is limited and channeled by marshes and canals.102 az Considerable numbers of static victim-operated (pressure-plate) IEDs are arrayed around such bastions to deter and slow government clearance operations.103
+
+Some of the most important Islamic State basing sanctuaries (Qara Chaug, Pulkhana, northern Diyala, and Qani Domlan) have also become more viable since Kurdish forces were expelled from these areas by Iraqi federal troops in October 2017, which left numerous 5-10 mile wide ridges, often just 10-30 miles long but sometimes (as in cases like Qara Chaug and the Hamrin Mountains) as long as 40-60 miles in which neither Baghdad nor the Kurds fully controlled the ground.104 In the authors’ assessment, the Islamic State took fully advantage of this opening and relocated some of their most active attack cells into this “crease” of ungoverned space.105 The authors assess that the Islamic State seems to seek isolation in unpopulated areas, preferring base locations with as few potential government informants as possible.106 In addition to seeking out areas with low population density, the Islamic State seems to try to keep its sanctuary areas depopulated.107 Interlopers, such as shepherds and truffle hunters, are frequently killed.108 Efforts to return displaced persons are deterred and resisted,109 including through the use of widespread crop-burning by the Islamic State.110 The Islamic State loves nothing better than an abandoned or demolished village,ba and where unmanned electro-optical camera masts have been established to oversee such places, the Islamic State is increasingly shooting out or attacking such masts.111 bb Desert highway corridors (such as the Bayji-Haditha pipeline road or the Bayji to Mosul pipeline road) are systematically denied to truckers and civilian traffic, to prevent interpenetration and visibility of such areas.112 The Islamic State appears to greatly value its privacy.
+
+Falling in on this impressive physical infrastructure of thousands of pre-stocked shelters and depopulated sanctuaries is a new influx of experienced fighters from Syria, largely Iraqis.113 bc In every province, most notably those touching on the Euphrates River Valley, there were signs of an increase in roadside bombing capabilities in the May-June 2019 period, followed by a widespread three-month surge of Islamic State attack operations in August-October 2019.114 Professional bomb-making facilities have been discovered in Anbar, Diyala, Nineveh, and Kirkuk that look more like pre-2014 insurgent workshops and less like the factories used to churn out crude cylindrical charges for the Islamic State’s barrier minefields.bd
+
+Tactical leadership also improved, both in terms of more advanced tactics, techniques, and procedures and also a widening of the number of active 6-25-person attack cells.be According to the authors’ assessment, the number of areas with active attack cells seems to nearly double, from an assessed 27 areas in December 2018115 to an assessed 47 areas in May 2020. In the authors’ assessment,116 the 47 areas are:
+
+Anbar: Akashat; the al-Qaim/Abu Kamal border area; Wadi Horan/Rutbah; Nukhayb; the Rawah-Anah-Haditha corridor; Hit; Ramadi and Lake Razazah; Karmah and southern Thar; and Fallujah/Amiriyat al-Fallujah
+
+Salah al-Din: Eastern Thar Thar/Balad; southern Jallam Desert/Mutaibijah; Udhaim, northeastern Thar Thar/Tikrit; Baiji/Siniyah/Makhul; northern Jallam Desert/Hamrin; Tuz/Pulkhana; and Zarga
+
+Baghdad: Tarmiyah; Taji/Saab al-Bour; Abu Ghraib/Zaidon; the Latifiyah/ Yusufiyah/ Mahmudiyah triangle; Jurf al-Sakhr; and Jisr Diyala/Madain
+
+Diyala: Buhriz/Kani Ban Saad; western Baquba; Mukhisa/Abu Sayda; Sherween/ Muqdadiyah; Jalula/Sa’adiyah; Qara Tapa/Hamrin; Khanaqin and Nida/Mandali;
+
+Kirkuk: Zab/Abbasi; the Mamah-Gharra / Batawi ridge; Riyadh; Rashad/Jawwalah Daquq/Ghayda; Dibis and the Qani Domlan; and Kirkuk city
+
+Nineveh: East Mosul; Ash Shura/Hammam al-Alil; Qayyarah; Sharqat; Jurn triangle; the Hatra/Iraq-Turkey Pipeline corridor southwest of Mosul; Badush/Atashana/west Mosul; Tal Afar/Muhallabiyah; Tal Afar/Ayadhiyah; Sinjar/Baaj; and Lake Sunnislah/Jazeera
+
+By the authors’ approximate but carefully considered calculation of apparent attack cells within each area, the active operational core of the insurgency probably numbers around 1,300 full-time insurgent attack cell combatants at the time of writing.bf According to the authors’ rough calculations, these cells are sustained by a broader active support network including 2,700 logistical and financial operatives, enforcement, and other support personnel.bg This larger group probably brings the insurgency in Iraq to a core of around 4,000 combatant members.117 The Islamic State insurgency is nested with a larger family and tribe-based passive support network that may number up to 10,000 adult sympathizers involved in a range of activities including procuring food and other supplies, providing safehouses and acting as spies and informants, raising the overall number of people potentially supporting Islamic State activities in Iraq to 14,000.bh (For comparison, in January 2020, the U.S. government estimated the presence of “14,000-18,000 [Islamic State] terrorists between Syria and Iraq,” though it is unclear how this number is broken out.118 bi)
+
+Explaining the Islamic State’s Partial Recovery
+In the December 2018 CTC Sentinel metrics analysis,119 the reactivation of Syria as a source of strength for the Iraqi insurgency was one of three indicators identified in relation to a potential resurgence of the Islamic State inside Iraq. In developing this article, the authors’ research process left the strong impression of an Islamic State cadre from Syria oozing down the ERV, pooling in reactivated insurgent hubs west of Baghdad (in Karma and Thar Thar) and in southern Nineveh (near Lake Sunnisilah), before feeding out into various branches of the insurgency in Anbar, Baghdad, Salah al-Din, and Nineveh, with slightly less noticeable effect on the more distant sub-theaters in Kirkuk and Diyala. This impression fits with interview coverage regarding the collapse of the Islamic State caliphate in the Syrian Euphrates and Khabur River Valleys.120 One U.S. officer with direct experience of the Deir ez-Zor intelligence picture in 2018-2020 told the authors: “Even before the fall of Raqqa, there was an operational decision [by the Islamic State] to shift key people and materiel into Iraq. After Raqqa, there was lots of movement and relocation.”121 This fits with the Islamic State’s shift to a “melt away” strategy described by Hassan Hassan in his seminal December 2017 CTC Sentinel article “Insurgents Again.”122
+
+Yet no single-driver explanation—such as a transfer of fighters—will ever capture the complexity of the mesmerizing operational patterns of an insurgent movement operating across multiple provinces. The December 2018 CTC Sentinel metrics analysis123 also suggested two other interrelated drivers for the 2011-2014 regrowth of the Islamic State that could recur again: the removal of U.S-led coalition forces and a deterioration in the leadership and effectiveness of the Iraqi security forces. In the authors’ assessment, both these drivers of an Islamic State resurgence are also beginning to manifest due to negative developments in 2019 and so far in 2020.
+
+The tit-for-tat strikes between Iran-backed militias and the United States—set against the backdrop of growing U.S.-Iran tensions and probable Israeli airstrikes in Iraq124—have gradually diminished the ability of the coalition to support Iraq’s security forces. To give tangible examples, both U.S. access to Iraqi airspace and U.S. ability to interact directly with Sunni tribal forces were circumscribed by militia-backed politicians from March and May 2019 onward, respectively.125 bj Throughout 2019, U.S. advisors were excluded from some operations (in the Tarmiyah, Nineveh, and Diyala areas) due to pushback from militias.126 bk Throughout 2019, Iraqi military commanders viewed as too close to the United States were transferred out of combat commands following militia pressure on the national and military leadership.127 Following a lethal militia attack on U.S. forces on December 27, 2019128 (and the subsequent U.S. and Iranian retaliatory operations inside Iraq129), many coalition hubs faced a reduced ability to advise Iraqi headquarters or to accompany Iraqi units outside of fortified camps.130 bl On January 5, 2020, in the aftermath of the January 3, 2020, U.S. killing of Qassem Soleimani and Abu Mahdi al-Muhandis, Iraq’s parliament issued a non-binding vote to remove foreign advisors, and while the vote lacked quorum,131 it nonetheless had a chilling effect on cooperation, with many Iraqi headquarters left uncertain over the status of cooperation.132 bm
+
+It is too soon to analyze the full effects of the killing of Soleimani and Muhandis, and broader U.S.-Iran tensions, on the war against the Islamic State. Trends in Iraq’s insurgencies often take time to play out. While there seemed to be no immediate effort by the Islamic State to take advantage of U.S.-Iran tensions in early Q1 2020,bn the movement appears to have launched a strong Ramadan offensive in Q2 2020.bo Whether it had planned to do so independently of the U.S.-Iran conflict is impossible to know at this point, but this study has pointed to evidence that the Islamic State was on an upswing in Iraq well before U.S. forces begin to strike militias in late December 2019.
+
+What is abundantly clear is that the disruption of coalition support in Iraq is of benefit to the Islamic State. As U.S. Special Envoy for the Global Coalition Jim Jeffrey noted in late January 2020: “Obviously, there is a possibility of a degradation of the effort against Daesh if we’re not able to do the things that we were doing so effectively up until a few weeks ago.”133 Lacking coalition support, the Iraqi security forces are neither trained nor equipped to conduct counterinsurgency. Such forces will remain singularly unprepared for the challenge of higher tempo roadside bombings and overrun attacks, as one of the authors noted in an August 2017 CTC Sentinel study.134 Few Mine Resistant Ambush-Protected (MRAP) vehicles are still in operation with the Iraqi security forces in early 2020, and most units undertake non-tactical movements and even clearance operations in unarmored pick-ups and lightly armored Hummers, with no road clearance activities and no counter-radio controlled IED jamming equipment.135 Iraqi troops lack personal protective equipment136 and often suffer preventable deaths through a lack of field surgical capabilities.137 Field fortifications such as observation posts and vehicle checkpoints are often decrepit, lacking concrete hardcover and berms, and thus highly vulnerable to direct fire.138 Iraqi troops increasingly rely on static infrared camera masts to surveil terrain at night, but these masts are easily destroyed.139
+
+Most important, the March 2020 removal of U.S. advisors from frontline headquarters such as K1, Qayyarah,140 Taquddum,141 Kisik, and Mosul will make it much harder to synergize coalition intelligence and aerial strikes with Iraqi operations.142 Development of the Iraqi security forces is deteriorating at exactly the moment it needs to be accelerating and adapting. In an area such as Kirkuk, where this study links the surge of U.S.-Iraqi joint operations to significant reduction in Islamic State attacks, the positive trend could be reversed, restoring one of the historic engines of Islamic State attacks to their effort in 2020. As one senior U.S. officer fresh from duty in Iraq told the authors on the national recovery of the Islamic State, “If caught early by the [Iraqi Security Forces], this can still be nipped in the bud. If they tackle it too late, it could get enough momentum to get away from them.”143
+
+The COVID-19 crisis completes this perfect storm for Iraq, which is also a perfect opportunity for the Islamic State. Relatively cut off from society, relatively small in number, and already ‘socially distancing’ in rural shelters (with very little connection to Iran, where there has been a large outbreak), Islamic State members are arguably the Iraqis best placed to avoid the ravages of the virus.144 bp Iraq’s security forces have been more seriously affected,145 bq in part due to the COVID-related removal of most non-U.S. trainers from the international coalition.br The severe oil price crash, which began in March 2020 and which is likely to extend through 2021,bs imposes yet more strain on the the administrations in Baghdad and Erbil, which may eventually prove a further distraction to the security forces, both in terms of maintaining civil order in cities and due to disruption of the wages of security force members and negative effects on their families.bt Defense spending will undoubtedly decline in the coming years as Iraq faces a very deep recession.
+
+In the authors’ view, the endogenous factors that draw the most international attention—U.S-Iran tensions and COVID-19—are merely accelerants of an Islamic State recovery in Iraq that was already well underway in late 2019.bu Further boosted by the new conditions in 2020, the Islamic State may enjoy unexpectedly favorable conditions in which to continue—or even accelerate—its recovery. It may become easier for the Islamic State to portray itself—in some places, quite accurately—as the strongest and wealthiest local security actor, which is a proven route to boost recruitment. In early 2020, the Islamic State is a shadow of its old self in Iraq—still a third as potent as it was in 2013 or 2017—but metrics analysis suggests it has recovered to a solid 2012-level of attack activities. Today’s insurgency is almost exclusivelybv rural in contrast to its 2012 iteration but the Islamic State could return to urban mass-casualty attacks if it builds strong enough bases in the rural ‘belts’ of major citiesbw such as Baghdad, Mosul, Ramadi, and Fallujah, to name just a few. The Islamic State strategy of attrition (nikayah in Arabic)146 worked in Iraq from 2012-2014 and may now again begin to grind away at the Iraqi security forces, local government, and tribal resistance in the manner of a stormy sea washing away a cliff.     CTC
+
+Dr. Michael Knights is a Senior Fellow at The Washington Institute for Near East Policy. He has worked in all of Iraq’s provinces, including periods embedded with the Iraqi security forces. Dr. Knights has briefed U.S. officials and outbound military units on the threat posed by Islamic State militants in Iraq since 2012 and regularly visits Iraq. He has written on militancy in Iraq for the CTC Sentinel since 2008. Follow @mikeknightsiraq
+
+Alex Almeida is the lead security analyst at Horizon Client Access, an analytic consultancy headquartered in New York. Follow @alexmello02
+
+Substantive Notes
+[a] A theme that will be developed and evidenced throughout is the proliferation of high-quality attacks in higher numbers in Iraq in the middle months of 2019, coincident with the relocation of Iraq cadres following the fall of the last Islamic State territorial holdings in Syria in early 2019.
+
+[b] All incident data is drawn from the authors’ geolocated Significant Action (SIGACT) dataset. The dataset brings together declassified coalition SIGACT data plus private security company and open-source SIGACT data used to supplement and extend the dataset as coalition incident collection degraded in 2009-2011 and was absent in 2012-2014. New data since 2014 has been added to the dataset to bring it up to date (as of the end of March 2020). The dataset includes non-duplicative inputs from open source reporting, diplomatic security data, private security company incident data, Iraqi incident data, and U.S. government inputs. The author adopted the same conservative standard as was used in prior attack metric studies to produce comparable results. The dataset was scoured manually, including individual consideration of every SIGACT in the set, with the intention of filtering out incidents that are probably not related to Islamic State activity, such as murders, and this is achieved by applying a highly selective filter in areas where criminality is as or more likely than Islamic State action, such as Baghdad city and many other urban environments. This process includes expansive weeding-out of “legacy IED” incidents (caused by explosive remnants of war) and exclusion of likely factional and criminal incidents, including all incidents in Baghdad city. The dataset also tries to include only enemy-initiated (i.e., Islamic State, not Shi`a militia) actions, and filters out SIGACTS that appear to be security force-initiated actions, meaning security force raids that result in combat. A difficult coding issue relates to security force encounters with explosive devices during patrols, which are included as a form of enemy-initiated action and which will be discussed below. As a result, readers should note that the presented attack numbers are not only a partial sample of Islamic State attacks (because some incidents are not reported) but are also a conservative under-counting of low visibility Islamic State incidents (for instance, because some urban criminal activity may, in fact, be Islamic State racketeering).
+
+The dataset includes numerous subcategories of attacks such as small-arms fire, improvised explosive device, indirect fire, drive-by shooting, and so on. To qualify as an attack, the action must be started, but may not necessarily be completed as intended, which would be very difficult to judge. Thus, a suicide bomber detonating at a checkpoint would count as an attack, but one who self-detonated during a raid would not count. Further methodological notes on the refinement of the dataset are included in other footnotes below.
+
+[c] The author’s December 2018 CTC Sentinel study included metrics up to the end of October 2018. Data from October 1, 2018, was included in the new study to facilitate quarterly comparisons of data. Michael Knights, “The Islamic State Inside Iraq: Losing Power or Preserving Strength?” CTC Sentinel 11:12 (2018).
+
+[d] The rural districts bordering Baghdad but not within the city limits (amanat) include places like Taji, Mushahidah, Soba al-Bour, Tarimiyah, Husseiniyah, Rashidiyah, Nahrawan, Salman Pak, Suwayrah, Arab Jabour, Yusufiyah, Latifiyah, Iskandariyah, and Abu Ghraib.
+
+[e] The authors updated their dataset of Iraq attack metrics to include November and December 2018, all of 2019, and the first quarter of 2020.
+
+[f] Explosive events include SIGACT categories such as Improvised Explosive Device (IED), Under-Vehicle IED (UVIED), vehicle-carried or vehicle-concealed IEDs, all categories of suicide bombing, indirect fire, hand grenade and rocket-propelled grenade attacks, guided missile attacks, plus recoilless rifle and improvised rockets. Self-detonation of suicide vests to prevent capture are not counted.
+
+[g] Defined in the author’s dataset as IED attacks on vehicles that are assessed to have struck the specific type of target preferred by the attacker, and to have initiated effectively. This is clearly highly subjective but such uncertainty is inevitable and acceptable if recognized from the outset and applied consistently.
+
+[h] Defined in the author’s dataset as attacks that successfully seized an Iraqi security force location for a temporary period, or which killed or wounded the majority of the personnel likely to have been present at the site.
+
+[i] Inferred in the author’s dataset by connecting the target type with circumstantial details of the attack to eliminate the likelihood that the individual was not the intended victim of the attack. As noted, Baghdad city has been excluded from the dataset, and a heavy filter is applied to most urban areas and areas known to suffer high levels of criminal, ethno-sectarian, and militia murders (for instance, Kirkuk and Tuz Khurmatu cities). If the area or target has seen similar Islamic State assassinations, the SIGACT stands a better chance of being counted in the Islamic State attack metrics used in this study. The authors have endeavored to exclude apparent revenge attacks on suspected Islamic State members by Iraqi tribes, which are common.
+
+[j] Defined in the author’s dataset as IED attacks on static locations that are assessed as being intended to cause 10 or more civilian or security force casualties. This excludes most roadside bombings, which target vehicles with lower capacity than 10 persons.
+
+[k] The U.N. Analytical Support and Sanctions Monitoring Team noted that the Islamic State had “begun to reassert itself in both the Syrian Arab Republic and Iraq, mounting increasingly bold insurgent attacks” in its December 2019 report. See “Letter dated 27 December 2019 from the Analytical Support and Sanctions Monitoring Team … concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities,” United Nations, p. 3.
+
+[l] Of particular note, it is vital to eliminate detonation or disposal of old mass-emplaced “legacy IEDs.” The authors paid particular attention to this distinction, which is often mentioned explicitly in reporting and hinted at in imagery of IED finds.
+
+[m] Baghouz, the last stronghold of the Islamic State in Syria, was liberated in March 2019. “Islamic State group defeated as final territory lost, US-backed forces say,” BBC, March 23, 2019.
+
+[n] Nineveh ranked fourth with 211 attacks in 2018, Salah al-Din fifth with 157 attacks, and Anbar last with 91. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[o] A 61% increase in attacks in Diyala, a 38% increase in Nineveh, and a 15% rise in Anbar offset drops in Kirkuk (-39%), Baghdad (-35%), and Salah al-Din (-10%).
+
+[p] After Nineveh ranked Anbar (83 in the quarter), then Kirkuk (46) and Salah al-Din (45). All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[q] Over the 27 months between January 2018 and March 2020, rural Baghdad saw 498 attacks, Salah al-Din 344, and Anbar 277. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[r] Caches unearthed in Anbar in late 2019 appear to be in better preserved condition, in larger quantity, and more standardized. To give examples, on September 28, 2019, four tons of C4 were discovered in cache near Hit. On October 9, 2019, a large cache of 35 RPGs and 30 122mm rockets were located in the same Anbar-Baghdad corridor at Karma. On October 10, 2019, two new training camps were uncovered in Hit, specializing in remote-controlled and under-vehicle bomb-making. Qualitative observations drawn from the dataset.
+
+[s] JBOC and AOC have been two of the Iraqi headquarters most closely advised by the U.S.-led Combined Joint Task Force – Operation Inherent Resolve (CJTF-OIR), from bases in Al-Asad and Taqqudum. Based on the authors’ conversations with U.S. intelligence officers working on Iraq, 2018 and 2019; names and places of interviews withheld at request of interviewees.
+
+[t] Q1 2020 attacks in Salah al-Din totaled 95, or 31.6 per month.
+
+[u] From around July 2019 onward, there are hints of better designed and conceived roadside bombs, and this trend solidifies from September 2019. Features of the new IED threat environment include increased numbers of highly lethal IED incidents, use of “come-on” tactics to lure responding security forces into IED kill zones, and increased use of house-borne IEDs (booby-trapped houses).
+
+[v] So-called “complex attacks” become more frequent in the second half of 2019, including the combined use of multiple attack types (small arms, RPG, sniper, and mortar fire) in attacks.
+
+[w] The Jallam Desert (and particularly the Mutaibijah area) is the central point in four attack cluster locations: Alas oilfield, east Samarra, the Udaim River Valley and Baghdad-Kirkuk road, and the Tigris River Valley towns north of Balad and Yethrib. Qualitative insight drawn from heat-map visualization of the authors’ geolocated dataset.
+
+[x] Q4 2018 saw 23.3 attacks per month.
+
+[y] Q1 2020 saw 32.3 attacks per month.
+
+[z] The largest rise of any class of high-quality attack was roadside bombs, jumping from 21 in Nineveh in Q3 2019 to 58 in Nineveh in Q4 2019.
+
+[aa] Q1 2020 saw 11.6 effective roadside bombing attacks per month.
+
+[ab] In the authors’ views, these comprise: East Mosul; Ash Shura/Hammam al-Alil; Qayyarah; Sharqat; Jurn triangle; the Hatra/Iraq-Turkey Pipeline corridor southwest of Mosul; Badush/Atashana/west Mosul; Tal Afar/Muhallabiyah; Tal Afar/Ayadhiyah; Sinjar/Baaj; and Lake Sunnislah/Jazeera. The December 2018 estimate of six operating areas in Nineveh can be found in footnote I in Knights, “The Islamic State Inside Iraq.”
+
+[ac] In Q1 2020, there were an average of one targeted assassination per month, suggesting quite a sustained trend of reduced assassinations across three quarters.
+
+[ad] In the authors’ view, building on impressions developed over the last 17 years of insurgency, there would seem to be four major insurgencies in Kirkuk: one Jabbouri-led in Hawijah-Riyadh and Zab-Abassi; one Obeidi-led in Rashad-Hamrin; one outlier rural tribal insurgency in Ghayda sub-district in the south of the province; and one suburban insurgency in the Dibis district, close to Kirkuk city.
+
+[ae] The Kakai is an Iraqi micro-minority who live in relatively high concentrations along the Baghdad-Kirkuk road. Based on the authors’ experience of traveling in the region and communicating with Kakai villagers.
+
+[af] The Rashad and Ghayda areas are the launchpad for regular mortar attacks on Kakai and Turkmen areas in Daquq district. In additional village raids, the Islamic State also periodically attacks pre-announced public events such as football games.
+
+[ag] The sheikh was from Hawd 13 village in Abbasi, and his daughter was found beheaded on September 30, 2019. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[ah] It would not be unusual for a farmer who heads a household to be ransomed for $40,000-70,000 in a successful kidnap operation. Based on the authors’ conversations with U.S. intelligence officers working on Iraq, 2019 and 2020; names and places of interviews withheld at request of interviewees.
+
+[ai] This was also the case prior to 2011, with the northwestern quadrant of the Baghdad belts linking the insurgency sub-systems in the Euphrates and Tigris River Valleys. See The U.S. Army in the Iraq War, Volume 2: Surge and Withdrawal, 2007-2011, U.S. Army pp. 61, 201-202. The so-called “Thar Thar seam”—where various unit boundaries met—and the northern belt were al-Qa`ida in Iraq and the Islamic State of Iraq’s most important transit routes from the Euphrates to Tigris River Valleys.
+
+[aj] The Baghdad belts are heavily irrigated farmlands that contain the ranches of former government officials and the town houses of tribal sheikhs and serve as a logistics hub for trucking companies and vegetable markets.
+
+[ak] To give a stark metric showing the collapse of the Islamic State market bombing campaign, there was an average of 21.6 market bombings in the Baghdad belts per month in Q1 2018, versus an average of 1 per month in Q1 2020, a fair representation of typical quarters recently. It remains unclear exactly why the effort ceased. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[al] There were 18 attacks in southern Baghdad in the whole of 2019, versus 18 in the first quarter of 2020 alone. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[am] In the 27 months between the start of January 2018 to the end of March 2020, Diyala recorded 1,030 attacks, Kirkuk showed 644, Nineveh 601, Baghdad 498, Salah al-Din 344, and Anbar 277. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[an] Of interest, the Islamic State claims for Diyala are higher (for instance, 65 for December 2019 versus the authors’ 55) but not by a great margin. Statistics provided by Aaron Zelin, via email to the authors, April 2020.
+
+[ao] In 2018, there was an average of 6.3 effective roadside bombings per month in Diyala, versus an average of 12.3 in the second half of 2019, settling down to 5.3 per month in Q1 2020. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[ap] In keeping with a generally observed trend in Iraq, the average settled back down to 7.3 per month in Q1 2020.
+
+[aq] This trend continued in Q1 2020, with an average of 7.0 precision small arms fire (i.e., sniping) attacks per month in Diyala.
+
+[ar] Like Diyala, Baghdad and Salah al-Din see some specifically anti-Shi`a attack patterns, particularly around the time of Shi`a pilgrimages such as Ashura and Arbaeen, due in part to the location of Shi`a sites in Samarra and south of the Baghdad belts.
+
+[as] In the first half of 2018, there were an average of 4.2 mortar attacks per month in Diyala (rising to 5.8 per month in the second half of 2019 and seven per month in Q1 2020). The number of shells reported per strike in Diyala seems to be edging upward, from a typical “stonk” of 2-5 shells at the start of 2018 to a typical bombardment of 5-10 shells by the end of 2019. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[at] Mortar attack videos by the Islamic State increasingly show daytime attacks ‘under a bright Iraqi sun.’ “The attacks always used to happen only after it got dark,” a security officer told one journalist in April 2020. See Shelley Kittelson, “Islamic State conducts attacks near Iraq’s Syrian and Iranian borders,” Al-Monitor, April 28, 2020.
+
+[au] These include (running from northwest to southeast): Ayadhiyah (north of Tal Afar), Badush (northwest of Mosul), Atshana (west of Mosul city), Adayah (some of Mosul), Qara Chaug (in Makhmour), Khanukah and Makhul (north of Bayji), Mama Gharra / Batiwa and Qani Domlan ridges (west of Kirkuk), the Hamrin ridge (between the Tigris and Diyala Rivers), and Pulkhana (east of Tuz Khurmatu).
+
+[av] The micro-caching of weapons was also seen in the Mosul battle in 2016-2017, to enable Islamic State fighters to adopt an unarmed appearance as they moved from cache to cache, to complicate targeting, before falling in on new equipment and weapons at their next fighting position. See Michael Knights and Alex Mello, “Defeat by Annihilation: Mobility and Attrition in the Islamic State’s Defense of Mosul,” CTC Sentinel 10:4 (2017).
+
+[aw] For instance, the Batiwa and Qani Domlan ridges (west of Kirkuk) were established just 15 miles from the U.S. Special Forces base at K1, and Qara Chaug and Pulkhana are located on the foothills below major Peshmerga bases.
+
+[ax] Basing areas might be categorized as small (under 10 square miles, including some parts of Ayadhiyah, Badush, Atshana, Adayah, Khanukah, Batiwa, and small anticlines in northern Diyala); medium (up to 45 square miles, such as Qani Domlan and Makhul); and large (around 100 square miles, such as the Hamrin and Qara Chaug ranges).
+
+[ay] Qani Domlan (outside Kirkuk city) is about 400ft elevated versus the Arab-populated lands to the south. The Hamrin ridge (and the much-targeted Alas oilfield are 300-600ft elevated. Qara Chaug is often elevated by as much as 700-1,200ft compared to surrounding plains.
+
+[az] Such as the Diyala River Valley, the Tigris River Valley in southern Nineveh, and rural outskirts of Baghdad.
+
+[ba] Examples include the range of Arab villages demolished by Kurdish forces in the Mama/Batiwa anticline west of Kirkuk, or the depopulated Sunni villages of Mutabijah on the Salah al-Din/Diyala border.
+
+[bb] The masts are electro-optical, lightly-armored camera systems described by Iraqis as “thermal cameras.” The masts retract into an armored box when not in use. For an image, see Mustafa Ahmad, “The SADAD-103 system (the Iraqi name “Argus”) is operated by the Iraqi Border Guard and Popular Mobilization Forces,” Twitter, January 24, 2020.
+
+[bc] A relocation back to Iraq began in 2017 of select Iraqi cadres. The U.N. Analytical Support and Sanctions Monitoring Team seems to agree. In December 2018, the United Nations noted: “The number of fighters in the Hajin area is estimated to be between 3,000 and 4,000, with Iraqi fighters comprising the bulk of ISIL ranks … Others, mainly from the Iraqi contingent, are crossing the border in small groups and reconstituting in cells within Iraq.” “Letter dated 27 December 2018 from the Analytical Support and Sanctions Monitoring Team … concerning Islamic State in Iraq and the Levant (Da’esh), Al-Qaida and associated individuals, groups, undertakings and entities,” United Nations, p. 7.
+
+[bd] For instance, radio-controlled initiation has returned in a big way: instead of almost exclusively victim-initiated IEDs (using pressure plates), today’s bombers are turning back to radio-controlled command-detonated IEDs. In one bomb-making cell in Nineveh, for instance, 58 Nokia phones and 118 GSM chips were discovered. An additional example may be found in the increasingly common tactic of mating welded metal drum IEDs—thousands of which were mass-produced at industrial workshops during 2015-2017 and cached at hundreds of sites across north central Iraq—with mobile phone triggers to enable remote-controlled detonation. Even crop-burning incendiaries have been found attached to Nokia cellphones. Qualitative observations drawn from the dataset. For imagery from recent IED operations, see Calibre Obscura, “#Kirkuk: ISIS released images of an attack against apparent Federal Police using both a roadside IED and small arms …,” Twitter, April 12, 2020.
+
+[be] A cell is defined here as an operationally self-contained group of insurgents tethered to a specific operating area. Cells may comprise multiple raid teams, IED teams and mortar crews, often bedding down in separate locations. These cells vary substantially in size, though a stripped-down platoon (around 20-25 insurgents) seems to mark the upper limit in size for current Islamic State cells. Urban cells are more compact and usually seem to number less than half a dozen operatives.
+
+[bf] This figure is derived from the authors’ assessment of the number of active attack cells combined with a calculation of the manpower needed to maintain the operational tempo and volume attacks generated by each individual cell throughout the period covered by this study. This requires making educated assumptions about cell size and the number and type of cells operating in different areas. The authors’ assumptions about cell size (around nine persons for assassination and raiding cells, eight for IED crews, and seven for mortar or command teams) are informed by historic review of insurgent operations in Iraq and indications from raid and coalition airstrike data. The authors also conducted an extensive review of the Islamic State’s published propaganda imagery showcasing individual cell operations and pledges of bayat (loyalty) during late 2019, when numerous cells gathered their members together to pledge allegiance to the group’s new leader. After identifying 47 apparent operational areas for Islamic State attack activity, the authors then ascribed the presence of absence or different types of cell within the areas. For instance, in areas with recurring mortar attacks, the authors can safely assume there is an indirect fire cell, with similar assumptions possible for roadside bombing cells, under-vehicle bombing cells, urban assassination cells, and rural raiding cells. Some areas might have some but not all types of cell (i.e., raiding and roadside bomb, but not indirect fire), while some areas might have multiples of a type. All areas are assumed to (have a command cell, a 25-person intelligence complement, and a 25-person support complement undertaking support jobs such as driving, moving equipment and weapons caches, cooking, buying materials, bomb making, and maintaining equipment. In total, this rough calculation yields a fielded attack force throughout Iraq of 1,290 fighters, which the authors have rounded off to 1,300 to underline its approximate nature. These insights are based on qualitative insights from the authors’ dataset, with attention to both attack data and non-attack data (such as raids, airstrikes, and other indicators of cell location, composition, and strength). These figures are clearly approximate and are intended to give the authors’ sense of the likely scale of the insurgent manpower base.
+
+[bg] The calculation of 2,700 active support operatives is very approximate and based on a simple premise that for every fighter in the field, there are another two undertaking support jobs to service the whole area. These include logistical and financial operatives, enforcement, and other support personnel. Collecting taxes probably takes up a dedicated sub-element of each area’s support operatives. The two-to-one ratio (1,300 x 2) gives 2,600, which the authors have rounded up to 2,700 to include some national-level leadership. The tally can easily be adjusted by the reader if they prefer a higher or lower tooth-to-tail ratio. These figures are clearly approximate and are intended to give the authors’ sense of the likely scale of the insurgent manpower base.
+
+[bh] Based on the authors’ working assumption that 2,000 of the 4,000 combatant members are family household heads (while the other 2,000 are single men), and that these have family sizes of five adult relatives (excluding the household head) in their homes. This household size assumption is based on longstanding study of Iraqi society and insurgency. Thus 2,000 household heads have access to a support network of 10,000 adults.
+
+[bi] In the urban clearance operations at Raqqa, Hajin, and Baghouz, the U.S. government found that it continually underestimated the number of Islamic State fighters present, sometimes by an order of magnitude, which may be feeding into a tendency to estimate on the higher side today. Based on the authors’ conversations with U.S. intelligence officers and diplomats working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[bj] In March 2019, Iraq began closing large parcels of airspace to coalition surveillance aircraft, particularly locations where Popular Mobilization Forces were present. In May 2019, the United States was forbidden from directly communicating with Sunni Tribal Mobilization Forces by the Popular Mobilization Commission of the Prime Minister’s Office.
+
+[bk] In operations in Tarmiyah, Diyala, and Kisik (near Mosul), U.S. advisors were ejected from operational command posts on the orders of militia commanders. Based on the authors’ conversations with U.S. intelligence officers and Iraqi security force officers working on the Islamic State, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[bl] From December 27, 2019, onward, most advisors were unable to accompany Iraqi forces on operations, and many advisor cells were locked down in self-defense mode. Based on the authors’ conversations with U.S. intelligence officers and Iraqi security force officers working on the Islamic State, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[bm] Salah al-Din, Samarra, Diyala, Kirkuk, and Baghdad operations commands temporarily suspended cooperation with the coalition after the January 3, 2020, targeted killing of Qassem Soleimani and Abu Mahdi al-Muhandis. Based on the authors’ conversations with U.S. intelligence officers and Iraqi security force officers working on the Islamic State, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[bn] This lack of an immediate surge by the Islamic State is the authors’ impression, judging by January 2020’s attack activity, which was lower than December 2019’s in all provinces except Anbar. The U.S. government seemed to see this as well, with James Jeffrey, Special Envoy for the Global Coalition to Defeat ISIS, noting on January 23, 2020, that “we have not seen an uptick in violence in Iraq by Daesh in this period. They haven’t taken advantage of it, as far as we can see.” “Special Representative for Syria Engagement and Special Envoy for the Global Coalition to Defeat ISIS James Jeffrey, Special Briefing,” U.S. Department of State, January 23, 2020.
+
+[bo] The offensive began on May 1, 2020, seeing a range of larger and well-publicized raids overrun Iraqi outposts and even police stations. For an open source treatment of the early incidents, see Halgurd Sherwani, “ISIS targets security forces in central Iraq for the second day in a row,” K24, May 3, 2020.
+
+[bp] The militants “reside in agricultural areas and are thus not particularly susceptible to the virus infection,” Lt. Col. Stein Grongstad told Norway’s VG newspaper in May 2020. In recent weeks, they have been targeting Iraqi forces “that are not currently coordinated to the same extent as before the virus struck.” “Norway’s top military official in Iraq says virus helps IS,” Associated Press, May 13, 2020.
+
+[bq] The COVID-19 outbreak has also resulted in a marked reduction in the operational tempo of the Iraqi security forces as forces have been shifted to curfew enforcement duties. For example, the number of reported counterterrorism raids undertaken by Emergency Police forces in Mosul city dropped from 26 in January 2020 and 30 in February to around nine in March 2020. Major rural clearance operations (battalion-sized or larger sweeps covering multiple villages) undertaken by Federal Police brigades in the Kirkuk farm belts dropped from four in January 2020 to only one during March 2020. Drawn from the non-attack data in the authors’ SIGACT monitoring system.
+
+[br] “By March 29, Australia, Spain, France, the United Kingdom, New Zealand, Portugal and the Netherlands had withdrawn almost all of their trainers.” Quoted in Michael Knights, “How the Islamic State Feeds on Coronavirus,” Politico, April 8, 2020. The “restructuring of [the] footprint” was recognized by the coalition in “Joint Statement on Behalf of the Global Coalition to Defeat ISIS on the First Anniversary of ISIS’s Territorial Defeat,” U.S. State Department, March 23, 2020.
+
+[bs] The U.S. Energy Information Administration notes in its April 2020 forecast: “Prices will average $33/barrel in 2020 … down from an average of $64/b in 2019 …. EIA forecasts that average Brent prices will rise to an average of $46/b in 2021.” See “Short-Term Energy Outlook,” U.S. Energy Information Administration, April 7, 2020.
+
+[bt] Iraq is highly vulnerable to a public health crisis and oil price crash. See Neil Edwards, “What Negative Oil Prices Mean To The Top Exporting Countries,” Forbes, April 21, 2020, and Renad Mansour, Mac Skelton, and Abdulameer Mohsin Hussein, “COVID 19: Assessing Vulnerabilities and Impacts on Iraq,” Chatham House, April 7, 2020.
+
+[bu] If COVID-19 becomes a major public health crisis in Iraq, and there is a reduction in security forces patrolling, it is possible it may reduce the number of Islamic State attacks due to lower target availability.
+
+[bv] The only cities in which the Islamic State periodically attacks are now Kirkuk and Baquba (the provincial capital of Diyala). In the authors’ view, Baquba is well worth watching as the Iraqi city where the Islamic State may make its first efforts at restored urban attack networks. Qualitative observations drawn from the authors’ dataset.
+
+[bw] It is worth considering that the Islamic State appears to be developing exactly the kind of rural redoubts that could eventually be used to conduct “commuter insurgency” from the rural belts into the cities. Qualitative observations drawn from the authors’ dataset.
+
+Citations
+[1] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[2] Qualitative insight drawn from the author’s geolocated SIGACT dataset.
+
+[3] See Michael Knights, “Predicting the Shape of Iraq’s Next Sunni Insurgencies,” CTC Sentinel 10:7 (2017) and Michael Knights, “The Islamic State Inside Iraq: Losing Power or Preserving Strength?” CTC Sentinel 11:12 (2018). Also see this excellent piece: Hassan Hassan, “Insurgents Again: The Islamic State’s Calculated Reversion to Attrition in the Syria-Iraq Border Region and Beyond,” CTC Sentinel 10:11 (2017).
+
+[4] Michael Knights and Alex Mello, “Losing Mosul, Regenerating in Diyala: How the Islamic State Could Exploit Iraq’s Sectarian Tinderbox,” CTC Sentinel 9:10 (2016).
+
+[5] Knights, “Predicting the Shape of Iraq’s Next Sunni Insurgencies;” Knights, “The Islamic State Inside Iraq.”
+
+[6] See Knights, “Predicting the Shape of Iraq’s Next Sunni Insurgencies,” and Knights, “The Islamic State Inside Iraq.”
+
+[7] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[8] Ibid.
+
+[9] Ibid.
+
+[10] Ibid.
+
+[11] Ibid.
+
+[12] Ibid.
+
+[13] Ibid.
+
+[14] Ibid.
+
+[15] Ibid.
+
+[16] Ibid.
+
+[17] Ibid.
+
+[18] Ibid.
+
+[19] Ibid.
+
+[20] Ibid.
+
+[21] Ibid.
+
+[22] Ibid.
+
+[23] Ibid.
+
+[24] Ibid.
+
+[25] Knights, “The Islamic State Inside Iraq.”
+
+[26] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[27] Qualitative observations drawn from the dataset.
+
+[28] Ibid.
+
+[29] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[30] Ibid.
+
+[31] Qualitative observations drawn from the dataset.
+
+[32] Ibid.
+
+[33] Ibid.
+
+[34] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[35] Ibid.
+
+[36] Ibid.
+
+[37] Qualitative observations drawn from the dataset.
+
+[38] Ibid.
+
+[39] Ibid.
+
+[40] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[41] Ibid.
+
+[42] Ibid.
+
+[43] Ibid.
+
+[44] Ibid.
+
+[45] Ibid.
+
+[46] See the author’s urban Mosul SIGACT coding in Michael Knights, “How to Secure Mosul: Lessons from 2008—2014,” Washington Institute for Near East Policy, Research Note 38 (2016): p. 10. All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[47] Ibid.
+
+[48] Ibid.
+
+[49] Ibid.
+
+[50] Authors’ assessment based on the geolocated SIGACT dataset.
+
+[51] Ibid.
+
+[52] Qualitative observations drawn from the dataset.
+
+[53] As explored in Knights, “The Islamic State Inside Iraq.”
+
+[54] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[55] Based on the authors’ conversations with U.S. intelligence officers working on Iraq, 2019; names and places of interviews withheld at request of interviewees.
+
+[56] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[57] Ibid.
+
+[58] Ibid.
+
+[59] Ibid.
+
+[60] Knights, “The Islamic State Inside Iraq.”
+
+[61] This assessment is based on the authors’ close monitoring of Iraqi security forces operational movements and order of battle data.
+
+[62] Ibid.
+
+[63] Based on the authors’ conversations with U.S. intelligence officers working on Iraq, 2019 and 2020; names and places of interviews withheld at request of interviewees.
+
+[64] Qualitative observations drawn from the dataset.
+
+[65] Ibid.
+
+[66] Ibid.
+
+[67] Ibid.
+
+[68] Based on the authors’ conversations with U.S. intelligence officers and Iraqi security force officers working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[69] Authors’ assessment based on the geolocated SIGACT dataset.
+
+[70] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[71] Ibid.
+
+[72] Ibid.
+
+[73] Ibid.
+
+[74] Ibid.
+
+[75] Ibid.
+
+[76] Authors’ assessment based on the geolocated SIGACT dataset.
+
+[77] See the map by Alexi Konstantos, Islamic State Claimed Provinces, available at http://umap.openstreetmap.fr/en/map/islamic-state-claimed-provinces-map_29647#7/33.409/42.902
+
+[78] This latter point is the authors’ assessment, based on large numbers of synthesized data points from non-attack data such as cache contents, coalition and Iraqi airstrikes and raiding patterns, and prior insurgent operating patterns.
+
+[79] Authors’ assessment based on the geolocated SIGACT dataset.
+
+[80] Qualitative observations drawn from the dataset.
+
+[81] Ibid.
+
+[82] Knights and Mello, “Losing Mosul, Regenerating in Diyala.”
+
+[83] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[84] This is the authors’ view, building on impressions developed over the last 17 years of insurgency.
+
+[85] Ibid.
+
+[86] Ibid.
+
+[87] Qualitative observations drawn from the dataset.
+
+[88] Ibid.
+
+[89] Ibid.
+
+[90] See “Booby-Trapped Cows Exploded In Easter Iraq Injuring Civilian,” South Front, September 1, 2019.
+
+[91] Qualitative observations drawn from the dataset.
+
+[92] Ibid.
+
+[93] All incident data is drawn from the author’s geolocated SIGACT dataset.
+
+[94] Based on the authors’ conversations with U.S. intelligence officers working on SIGACT sets, 2020; names and places of interviews withheld at request of interviewees.
+
+[95] Qualitative observations drawn from the dataset. The authors’ have reviewed many hundreds of reports of cache finds, often with photographic evidence as well as text descriptions of the finds.
+
+[96] Hassan.
+
+[97] Based on the authors’ conversations with U.S. intelligence officers working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[98] Derek Henry Flood, “From Caliphate to Caves: The Islamic State’s Asymmetric War in Northern Iraq,” CTC Sentinel 11:8 (2018).
+
+[99] Based on the authors’ terrain analysis drawn from 17 years of analysis of insurgency in Iraq, imagery, ground visits to Islamic State operating areas, and descriptions provided by interviewees.
+
+[100] Ibid.
+
+[101] Ibid.
+
+[102] Ibid.
+
+[103] Qualitative observations drawn from the dataset.
+
+[104] Based on the authors’ conversations with U.S. and Iraqi intelligence officers working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[105] Ibid. The views of U.S. and Iraqi intelligence officers fits with qualitative observations drawn from the dataset.
+
+[106] Qualitative observations drawn from the dataset.
+
+[107] Ibid.
+
+[108] Ibid.
+
+[109] Ibid.
+
+[110] The issue of widespread crop-burning, for extortion and driving off farmers, is analyzed with satellite imagery in the following article: Wim Zwijnenburg, “Torching And Extortion: OSINT Analysis Of Burning Agriculture In Iraq,” Bellingcat, June 3, 2019.
+
+[111] Qualitative observations drawn from the dataset.
+
+[112] Ibid.
+
+[113] Based on the authors’ conversations with U.S. and Iraqi intelligence officers working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[114] Qualitative and quantitative observations drawn from the dataset.
+
+[115] The December 2018 estimate of 27 operating areas can be found in footnote I in Knights, “The Islamic State Inside Iraq.”
+
+[116] The operating areas are derived based on the authors’ assessment of geolocated attack metrics, combined with 17 years of analysis of insurgent basing patterns in Iraq and current Islamic State wilayat, plus a review of Iraqi and coalition raiding and airstrike patterns.
+
+[117] Ibid.
+
+[118] “Live At State Briefing with Ambassador James Jeffrey,” U.S. State Department, January 30, 2020.
+
+[119] Knights, “The Islamic State Inside Iraq.”
+
+[120] Based on the authors’ conversations with U.S. intelligence officers and diplomats working on the Islamic State, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[121] Authors’ interview with U.S. intelligence officer working on the Islamic State in Syria and Iraq, 2018-2020; name and place of interview withheld at request of interviewee.
+
+[122] Hassan.
+
+[123] Knights, “The Islamic State Inside Iraq.”
+
+[124] Background on the November and December 2019 blows and retaliation can be found here: Michael Knights, “The Tight Rope: Deterring Militias While Supporting Reformists in Iraq,” Washington Institute, January 2, 2020. A good explainer (with mapping) of the flurry of strikes and counter-strikes in early January is given in Cath Levett, Theresa Malone, Paul Scruton, and Sean Clarke, “Iran crisis: a visual guide to the latest development,” Guardian, January 8, 2020. A collation of 2020 strikes on U.S. and coalition bases (and Kataib Hezbollah sites) can be found in Joel Wing, “Tit For Tat Between U.S. and Pro-Iran Hashd Continues,” Musings on Iraq, March 15, 2020.
+
+[125] Based on the authors’ conversations with U.S. intelligence officers, military officers, and diplomats working in Iraq, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[126] Ibid.
+
+[127] For a review of some of the key removals, see Michael Knights, “Helping Iraq Take Charge of Its Command-and-Control Structure,” PolicyWatch 3193, September 30, 2019.
+
+[128] For a useful account of the attacks and aftermath at K1, see Kevin Knodell, “Life and Death at K1: Inside America’s Last Days in Kirkuk,” Coffee or Die, April 19, 2020.
+
+[129] See the aforementioned “Iran crisis: a visual guide to the latest development.”
+
+[130] Based on the authors’ conversations with U.S. intelligence officers, military officers, and diplomats working in Iraq, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[131] Bilal Wahab, “Here, Photo analysis of #Iraq parliament session on Sunday: 167 MPs needed for quorum; 130 were present …,” Twitter, January 7, 2020.
+
+[132] Based on the authors’ conversations with U.S. intelligence officers, military officers, and diplomats working in Iraq, 2019-2020; names and places of interviews withheld at request of interviewees.
+
+[133] “Special Representative for Syria Engagement and Special Envoy for the Global Coalition to Defeat ISIS James Jeffrey, Special Briefing,” U.S. Department of State, January 23, 2020.
+
+[134] Knights, “Predicting the Shape of Iraq’s Next Sunni Insurgencies.”
+
+[135] Based on the authors’ careful review of images from hundreds of security force operations.
+
+[136] Ibid.
+
+[137] Based on the authors’ conversations with U.S. and coalition military officers in Iraq, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[138] Based on the authors’ careful review of images from numerous checkpoints and combat outposts. Based on the authors’ conversations with U.S. and Iraqi military officers in Iraq, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[139] As mentioned in footnote BB. Based on the authors’ conversations with U.S. and Iraqi military officers in Iraq, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[140] “US-led forces pull out of third Iraqi base this month,” Al Jazeera, March 29, 2020.
+
+[141] Chad Garland, “Marines, Coalition Forces Pull out of Iraq’s Taqaddum Air Base,” military.com, April 5, 2020.
+
+[142] Based on the authors’ conversations with U.S. and Iraqi military officers in Iraq, 2018-2020; names and places of interviews withheld at request of interviewees.
+
+[143] Based on the authors’ conversation with a U.S. military officer who served in Iraq, 2019-2020; name, place, and date of interview withheld at request of the interviewee.
+
+[144] See Michael Knights, “How the Islamic State Feeds on Coronavirus,” Politico, April 8, 2020.
+
+[145] Based on the authors’ careful review of the tempo of ongoing security force operations.
+
+[146] For an unpacking of the Islamic State’s concept of attrition, see Hassan.
+
+Related Articles
+NOVEMBER 20, 2020
+
+Outlasting the Caliphate: The Evolution of the Islamic State Threat in Africa
+Jason Warner, Ryan O’Farrell, Héni Nsaibia, Ryan Cummings
+
+Afghanistan’s Future Emirate? The Taliban and the Struggle for Afghanistan
+Seth G. Jones
+
+OCTOBER 22, 2020
+
+Twenty Years after the USS Cole Attack: The Search for Justice
+Pete Erickson, Seth Loertscher, David C. Lane, Paul Erickson
+
+Jihadi Insurgency in Mozambique Grows in Sophistication and Reach
+Tim Lister
+
+Back into the Shadows? The Future of Kata’ib Hezbollah and Iran’s Other Proxies in Iraq
+Michael Knights
+
+OCTOBER 15, 2020
+
+Desert Drift, Declining Deadliness: Understanding the Evolution of AQIM’s Suicide Bombings
+Jason Warner, Ellen Chapin, Caleb Weiss
+
+SEPTEMBER 24, 2020
+
+The Terrorist Lists: An Examination of the U.S. Government’s Counterterrorism Designations Efforts
+Seth Loertscher, Daniel Milton, Bryan Price, Cynthia Loertscher
+
+SEPTEMBER 17, 2020
+
+The Crisis Within Jihadism: The Islamic State’s Puritanism vs. al-Qa`ida’s Populism
+Mohammed Hafez
+
+
+Stay Informed
+Sign up to receive updates from CTC.
+
+SIGN UP
+PAGE LINKS
+ABOUT
+ 
+EDUCATION
+ 
+CTC SENTINEL
+ 
+NEWS
+ 
+HARMONY PROGRAM
+ 
+OPPORTUNITIES
+ 
+CONTACT
+ 
+PRIVACY POLICY
+ 
+TERMS OF USE
+ 
+©2020 | COMBATING TERRORISM CENTER
+
+WEBSITE | MURMUR CREATIVE

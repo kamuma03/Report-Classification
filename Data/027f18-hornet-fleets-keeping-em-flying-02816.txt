@@ -1,0 +1,593 @@
+'
+Department of Defense & Industry Daily News
+
+Advertisement
+Defense program acquisition news, budget data, market briefings
+Contact
+Subscribe
+Log in
+Search
+Feature tourTable of contentsExec summaryMedia gallery
+Print Friendly, PDF & Email
+
+
+Share
+
+Table of contents
+Global F/A-18 Hornet Fleets: Keeping ‘Em Flying
+Contracts & Key Events, 2006 – Present
+2014 – 2020
+2013
+2012-2015
+2011
+2010
+2009
+2008
+2007
+2006
+Additional Readings
+Background: Aircraft
+Background: Customers & Programs
+News & Views
+Try this quick tour to discover our time-saving article tools.×
+Global F/A-18 Hornet Fleets: Keeping ‘Em Flying
+Nov 25, 2020 00:04 UTC by Defense Industry Daily staff
+Latest update [?]
+USMC F/A-18C, CAP
+
+USMC F/A-18C
+November 25/20: Switzerland Replacement Armasuisse, which is the Swiss Federal Office for Defense Procurement, announced external link that it has received the second set of proposals for the country’s Air2030 Neues Kampfflugzeug (New Fighter Aircraft, NKF) as well as ground-based air defense system. The offers to replace the Swiss Air Force’s F-5E/F Tiger II and F/A-18 Hornet fleets were made by... {click to expand +}
+
+Keep reading for the whole story with recent events put in context
+CF-18 Reverse Cockpit
+
+CF-18: which way?
+(click to see clearly)
+The F/A-18 Hornet is the F/A-18 E/F Super Hornet‘s predecessor, with the first models introduced in the late 1970s as a spinoff of the USAF’s YF-17 lightweight fighter competitor. Hornets are currently flown by the US Marine Corps as their front-line fighter, by the US Navy as a second-tier fighter behind its larger F/A-18 E/F Super Hornets, and by 7 international customers: Australia, Canada, Finland, Kuwait, Malaysia, Spain, and Switzerland. The USA’s aircraft were expected to have a service life of 20 years, but that was based on 100 carrier landings per year. The US Navy and Marines have been rather busy during the Hornets’ service life, and so the planes are wearing out faster.
+
+This is forcing the USA to take a number of steps in order to keep their Hornets airworthy: replacing center barrel sections, re-opening production lines, and more. Some of these efforts will also be offered to allied air forces, who have their own refurbishment and upgrade programs.
+
+Advertisement
+
+Contracts & Key Events, 2006 – Present
+
+
+F/A-18 History
+click for video
+Some of the parts procured under Boeing’s contracts will be produced for allied military services who fly the F/A-18. The Hornet was a McDonnell-Douglas aircraft, so contracts will generally be to that Boeing subsidiary in St Louis, MO, unless otherwise noted.
+
+Note that “center barrel sections” refer to the middle chunk of the plane where the wings joint the body. As one might guess, replacing them is a somewhat involved process, and is also very helpful in extending the airframe’s fatigue-hour limits.
+
+Australia MRO
+
+Australian MRO
+(click to view full)
+There are some gaps in this article’s coverage. National MRO (Maintenance, Repair, & Optimization) initiatives don’t get comprehensive coverage beyond the multi-fleet central contracts announced in the USA, though some coverage and links are present. There’s also a thin line at times between upgrades required to remain survivable and hence useful in national fleets, and airframe life-extension efforts. In theory, they’re different, but in practice they’re often linked. As such, leaving all upgrades out would do readers a disservice, so they occasionally appear when there’s a connection. Again, however, lists of upgrades are not comprehensive.
+
+Note that Hornet fighters use different radars. Raytheon’s APG-65 is installed aboard USN and USMC F/A-18C/D Hornets (both radar types), and the USMC’s AV-8B Harrier II Plus V/STOL fighters. Abroad, it serves in AV-8Bs operated by Spain and Italy, in Spain’s “EF-18A/Bs” and Kuwait’s F/A-18C/Ds, and in German and Greek F-4 Phantom strike fighters.
+
+Raytheon’s APG-73 serves some of the USA’s F/A-18C/D Hornet fleet, and the USN’s F/A-18E/F Block I Super Hornet (APG-73) fighters. It’s also found in Hornets flown by Australia (F/A-18AM/BM), Canada (CF-18AM/BM), Finland (F/A-18C/D), Malaysia (F/A-18D), and Switzerland (F/A-18C/D).
+
+Tests are reportedly external link going well for active electronically scanned array (AESA) radars to be retrofit to the A, B, C and D F/A-18 models.
+
+2014 – 2020
+ 
+
+F/A-18C fires 70mm rockets
+
+F/A-18C fires Hydras
+(click to view full)
+November 25/20: Switzerland Replacement Armasuisse, which is the Swiss Federal Office for Defense Procurement, announced external link that it has received the second set of proposals for the country’s Air2030 Neues Kampfflugzeug (New Fighter Aircraft, NKF) as well as ground-based air defense system. The offers to replace the Swiss Air Force’s F-5E/F Tiger II and F/A-18 Hornet fleets were made by Germany for Airbus Eurofighter, France for the Dassault Rafale, and the United States for the Boeing F/A-18E/F Super Hornet and Lockheed Martin F-35A Lightning Joint Strike Fighter. The DDPS said the proposals included the prices for 36 and 40 aircraft, including logistics and weapons, as a binding starting point for negotiations with the winning offer after type selection.
+November 19/20: Wheels And Brakes Honeywell International won external link a $25.7 million deal for the manufacture of four parts associated with the wheels and brakes used in support of the F/A-18 aircraft.  This contract includes a three-year base period with no options. F/A-18 Hornet became the nation’s first all-weather fighter and attack aircraft, and was designed for traditional strike applications such as interdiction and close air support without compromising its fighter capabilities. The F/A-18 A-D is employed in Marine Corps fighter attack squadrons, US Navy and Marine Corps Reserve squadrons, the Navy Flight Demonstration Team (Blue Angles), and various other fleet support roles. F/A-18E/F Super Hornet entered fleet service in 1999, as the replacement for the F-14 Tomcat. The Super Hornet is the second major model upgrade since the inception of the F/A-18 aircraft program highly capable across the full mission spectrum: air superiority, fighter escort, reconnaissance, aerial refueling, close air support, air defense suppression and day/night precision strike. The single-seat F/A-18E and the two-seat F/A-18F are high performance, twin-engine, mid-wing, and multi-mission tactical aircraft designed to replace the F/A-18C (single-seat) and F/A-18D (two-seat) aircraft as they reach the end of their service lives and retire. Work will take place in Indiana and is expected to be finished by December 2023.
+November 11/20: Wave Tube L-3 Electron Devices won a $7.9 million delivery order for the repair of the guided traveling wave tube in support of the F/A-18 aircraft. The F/A-18 Hornet is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. It has a digital control-by-wire flight control system which provides excellent handling qualities, and allows pilots to learn to fly the airplane with relative ease. Two type series of the original Hornet, the A/B and C/D preceded the Boeing F/A-18E/F Super Hornet, a larger more capable version of the F/A-18 introduced in 1999. Since then the Super Hornet has been updated with “Block II” models and now there’s a “Block III” Super Hornet. Boeing signed a $4 billion contract with the Navy in May 2019 for 78 new-build Block III Super Hornets which should be delivered by spring 2024. Work under the delivery order will take place in California. Estimated completion will be by February 2021.November 6/20: Blue Angels’ Last Flight The Blue Angels demonstration flew its F/A-18 A/B/C/D Hornets for the last time on November 4, 2020. The team of planes, formally the US Navy Flight Demonstration Squadron, has used Hornets for the past 34 years, but transitioned to the F/A-18 E/F Super Hornet platform. “We deeply appreciate the expertise and operational knowledge Blue Angels past and present have brought to the team and we look forward to enhancing our operations as we fully transition to flying the Super Hornet,” Cmdr. Brian Kesselring, Blue Angels commanding officer said in a statement The demonstration team began in 1946 as a civilian and military morale-building experiment, and travels to air shows around the world to exhibit aerial maneuvers. It first used the F/A-18A and F/A-18B Hornet platforms in 1986, and transitioned to C and D models, since discontinued, in 2010.August 31/20: ARC Leidos won a $58.9 million contract modification, which provides for the development of Adaptive Radar Countermeasure (ARC) Software/Firmware (SW/FW) capabilities and integration of ARC SW/FW on the AN/ALQ-214A electronic countermeasure host. ARC SW/FW supplements F/A-18C-F survivability in the presence of radio frequency guided surface-to-air and air-to-air weapons systems. Work will take place in Virginia, New Jersey, California, Missouri, North Carolina and Alabama. Expected completion date is in February 2023.August 17/20: Umbilical Cable J.F Taylor won a $23.2 million deal, which provides for the production and delivery of a maximum quantity of six first article test external quick-disconnect umbilical cable assemblies and a maximum quantity of 2,500 external quick-disconnect umbilical cable assemblies in support of advanced anti-radiation guided missile production. Additionally, this contract procures a maximum quantity of six first article test external quick-disconnect umbilical cable assemblies and a maximum quantity of 5,000 production representative external quick-disconnect umbilical cable assemblies for various military standard 1760 compliant weapons for the F/A-18 series and EA-18G aircraft. The F/A-18 “Hornet” is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. The Growler is a derivative of the F/A-18 Hornet. The Growler was developed as a replacement for the US Navy EA-6B Prowler aircraft that entered service in 1971 and retired in March 2019. Work will take place Maryland. Expected completion will be in July 2025.August 4/20: AIC Event USS Gerald R. Ford (CVN 78) had its first Air Intercept Control (AIC) event on July 30 and the aircraft carrier’s crew directed F/A-18s from VFA-103 and VFA-213 to protect high value asset against enemy threats. Two separate AIC events took place during the exercise and Ford’s Air Intercept Controller, Operations Specialist 1st Class David Geary, controlled two Super Hornets from Jolly Rogers and four F/A-18Fs from Black Lions to “intercept, escort and if necessary kill the inbound threat aircraft.”June 19/20: Canada The US State Department approved a possible FMS to Canada of 50 Sidewinder AIM-9X Block II tactical missiles and related equipment for $862.3 million. The deal also includes 50 AIM-9X Block II Captive Air Training Missiles, 10 Special Air Training Missiles, 10 Tactical Guidance Units, 10 Sidewinder AIM-9X Block II CATM Guidance Units; 38 APG-79(V)4 Active Electronically Scanned Array (AESA) radar units; 38 APG-79(V)4 AESA Radar A1 kits; 20 Joint Standoff Weapon (JSOW) C, AGM-154C; 46 F/A-18A Wide Band RADOMEs. Until the Royal Canadian Air Force makes a decision on its next-generation fighter aircraft, it will have to rely on its ageing fleet of classic Boeing F/A-18A Hornets; a type known in Canada as the CF-18. To keep those fighters relevant for air-to-air combat, Ottawa had requested to buy 50 examples of the Raytheon AIM-9X Block II Sidewinder missile. Canada is hosting the Future Fighter Capability Project to pick an advanced type to replace its CF-18 Hornets. The country wants to buy 88 fighters. Boeing is offering the F/A-18E/F Super Hornet, Lockheed Martin the F-35, and Saab the Gripen E.
+March 18/20: Repair Of APG 65/73 Raytheon won a $18.2 million delivery order external link for the repair of the APG 65/73 radar systems in support of the F/A-18 aircraft. Originally developed by the Hughes Aircraft Company, now Raytheon, the AN/APG-65 radar systems have been in regular use by the US Navy and Marine Corps, along with foreign militaries, since the early 1980s, and the AN/APG-73 has been in use since its development in the early 1990s, according to Raytheon. The AN/APG-73 was integrated into upgraded F/A-18 Hornet aircraft models C and D, along with early editions of the Navy’s F/A-18E/F Super Hornet. Work will take place in Indiana and is expected by March 2022.
+March 16/20: AARGM Alliant Techsystems Operations won a $165 million contract modification external link, which exercises an option to procure Lot Nine, full rate production of Advanced Anti-Radiation Guided Missiles (AARGM). This modification includes the conversion of Advanced Guided Missile-88B High Speed Anti-Radiation Missiles into 253 AGM-88E AARGM all up rounds for the Navy, and two Captive Air Training Missiles for the government of Germany. Northrop Grumman’s Advanced Anti-Radiation Guided Missile is a supersonic, air-launched tactical missile system. It has the capability to perform Destruction of Enemy Air Defense missions and is an upgrade to the US Navy AGM-88 HARM system. AARGM is able to rapidly engage traditional and advanced land- and sea-based air defense threats, as well as non-radar, time-sensitive strike targets. Northrop Grumman’s potential material solution to the US Navy’s AARGM Extended Range requirement utilizes existing AARGM sensors, electronics and warhead. AARGM is an air-launched missile with the capability to rapidly engage air-defense threats. AARGM is currently deployed with the US Navy and US Marine Corps on the F/A-18C/D Hornet, F/A-18E/F Super Hornet and EA-18G Growler aircraft. AARGM is also integrated on the Italian Air Force’s Tornado Electronic Combat aircraft.
+March 6/20: Air USA Buys Hornets Australia has agreed to sell up to 46 of its F/A-18A/B fighters to Air USA, an air combat training company in the United States. The transfer will take place over next three to four years, the Minister for Defense Industry, Melissa Price said. Air USA is a private contractor. Royal Australian Air Force (RAAF) personnel at RAAF Base Williamtown will be responsible for preparing the aircraft for their transfer to the company. The Australian Department of Defense announced the sale on its website external link. Williamtown is home to three of the four remaining Australian F/A-18A/B units, No. 3 and No. 77 Squadrons and No. 2 Operational Conversion Unit, the latter of which is responsible for training pilots on the type. No. 75 Squadron is based at RAAF Base Tindal in Australia’s Northwestern Territory.
+February 12/20: Trailing Edge Flaps Boeing won a $22.2 million delivery order external link for the procurement of trailing edge flaps in support of the F/A-18 C-D aircraft. A Trailing Edge is the rear edge of an aircraft’s wing flap where the airflow separated by the Leading Edge, which is a part of the wing that first contacts the air, rejoins. The trailing edge is the location for essential control surfaces. The Hornets won a twin-engine, carrier-capable, multirole fighter aircraft. Work will take place in Emmen, Switzerland and St. Louis, Missouri. Estimated completion will be in February 2023. Switzerland funds in the amount of $10,9 million will be obligated at the time of award and funds will not expire at the end of the current fiscal year.
+February 7/20: Generator Converter Units GE Aviation Systems LLC won a $26.6 million delivery order external link for the procurement of 101 generator converter units used on the F/A-18 aircraft. The F/A-18 Hornet is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. The aircraft fills a variety of roles: air superiority, fighter escort, suppression of enemy air defenses, reconnaissance, forward air control, close and deep air support, and day and night strike missions. The F/A-18 Hornet replaced the F-4 Phantom II fighter and A-7 Corsair II light attack jet, and also replaced the A-6 Intruder as these aircraft were retired during the 1990s. Work under the new delivery order will take place in Vandalia, Ohio and is expected to be finished by January 2025.
+February 4/20: Kuwait The US Navy awarded Kay and Associates a $67.3 million contract modification external link to exercise an option for maintenance and support services for F/A-18 C/D and associated equipment in support of the government of Kuwait. Kuwait has looked to upgrade its Air Force in recent years, including signing deals last year for 28 new F/A-18 variants. In April 2018, Boeing won a contract worth $1.2 billion for production and services on 22 F/A-18E and 6 F/A-18F Super Hornets, to be delivered to the government of Kuwait by 2022. Work will take place in Kuwait. Estimated completion will be in January 2022.
+January 14/20 Flight Control Surfaces Boeing won a $14 million delivery order external link for spare items in support of the Flight Control Surfaces utilized on the F/A-18 aircraft. The F/A-18 Hornet is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. It fills a variety of roles: air superiority, fighter escort, suppression of enemy air defenses, reconnaissance, forward air control, close and deep air support, and day and night strike missions. The aircraft has a digital control-by-wire flight control system which provides excellent handling qualities, and allows pilots to learn to fly the airplane with relative ease. At the same time, this system provides exceptional maneuverability and allows the pilot to concentrate on operating the weapons system. A solid thrust-to-weight ratio and superior turn characteristics combined with energy sustainability, enable the F/A-18 to hold its own against any adversary. Boeing will perform work in Missouri. Estimated completion date is May 30, 2022.
+November 7/19: Finland Finland has issued a call for revised tenders for its F/A-18 replacement contest, local media external link reports. All five contenders were reportedly given the documents on October 31. They have until January 31 next year to submit their response. The calls for tenders allows those companies to revise their bids to the comply with what was negotiated with Finland during the initial bids. The fighter jets under consideration in the so-called HX Fighter Program are Boeing F/A-18 Super Hornet, Dassault Rafale, Eurofighter Typhoon, Lockheed Martin F-35 and Saab Gripen. The goal of the project is to replace the aging fighter jet fleet with up to 64 multi-role fighter jets that meet the requirements of the operating environment.
+
+November 6/19: Retrofit Boeing won a $34.2 million delivery order external link, which provides for the non-recurring engineering, logistics product data, 28 Group A-1 retrofit kits, 28 Group A-2 retrofit kits, and 28 Group B retrofit kits for incorporation of the Distributed Targeting Processor-Network into the F/A-18 aircraft for the Navy and the Government of Australia. The F/A-18 “Hornet” is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. Boeing will perform work in St. Louis, Missouri, China Lake, California, and Whidbey Island, Washington. Expected completion is in June 2022.
+
+October 28/19: Additional Three Years Of Pricing Honeywell International won a $77.1 million contract modification external link for an additional three years of pricing in support of the F/A-18 aircraft. The F/A-18 “Hornet” is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. The F/A-18 fills a variety of roles: air superiority, fighter escort, suppression of enemy air defenses, reconnaissance, forward air control, close and deep air support, and day and night strike missions. The F/A-18 Hornet replaced the F-4 Phantom II fighter and A-7 Corsair II light attack jet, and also replaced the A-6 Intruder as these aircraft were retired during the 1990s. Honeywell will perform work in Arizona and estimated completion is in October 9, 2022.
+
+October 14/19: Rudders Northrop Grumman Systems won a maximum $24.3 million firm-fixed-priced delivery order for rudders in support of the F/A-18 external link aircraft platform. The F/A-18 Hornet is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. The F/A-18 fills a variety of roles: air superiority, fighter escort, suppression of enemy air defenses, reconnaissance, forward air control, close and deep air support, and day and night strike missions. The F/A-18 Hornet replaced the F-4 Phantom II fighter and A-7 Corsair II light attack jet, and also replaced the A-6 Intruder as these aircraft were retired during the 1990s. The multi-mission F/A-18E/F Super Hornet strike fighter is an upgrade of the combat-proven night strike F/A-18C/D. The Super Hornet will provide the battle group commander with a platform that has range, endurance, and ordnance carriage capabilities comparable to the A-6 which have been retired. The F/A-18E/F aircraft are 4.2 feet longer than earlier Hornets, have a 25% larger wing area, and carry 33% more internal fuel which will effectively increase mission range by 41% and endurance by 50%. The Super Hornet also incorporates two additional weapon stations. This allows for increased payload flexibility by mixing and matching air-to-air and/or air-to-ground ordnance. The aircraft can also carry the complete complement of “smart” weapons, including the newest joint weapons such as JDAM and JSOW. Work for the rudders will take place in California with an August 31, 2026 expected completion date.
+
+October 8/19: Retirement The US Navy has retired its fleet of Boeing F/A-18A-D Hornet combat aircraft from active service. The USN announced external link on October 2 that the final flight took place out of Naval Air Station Oceana, Virginia. The retirement of the ‘classic’ Hornets brings 35 years of frontline service with the USN to an end and comes just over a year since the service performed its final carrier deployment of the type earlier in 2018. While the Hornet has been retired from the USN’s active unit inventory, it will remain operational with the Navy Reserve, the Blue Angels display team, and the US Marine Corps (USMC).
+
+September 23/19: Advanced Capability Mission Computers Boeing won a $51.6 million contract external link to procure 136 Advanced Capability Mission Computers in support of the F/A-18 aircraft. The Advanced Capability Mission Computer is an integrated information processing system, providing complete hardware and software solutions. It is built on a well-defined open systems architecture allowing for rapid insertion of emerging technologies. The ACMC is a set of digital computer hardware and software that performs general purpose, I/O, video, voice, and graphics processing. The F/A-18 Hornet is a single- and two-seat, twin engine, multi-mission fighter/attack aircraft that can operate from either aircraft carriers or land bases. The F/A-18 fills a variety of roles: air superiority, fighter escort, suppression of enemy air defenses, reconnaissance, forward air control, close and deep air support, and day and night strike missions. The F/A-18 Hornet replaced the F-4 Phantom II fighter and A-7 Corsair II light attack jet, and also replaced the A-6 Intruder as these aircraft were retired during the 1990s. Work will take place in St. Louis, Missouri. Estimated completion will be in February 2022.
+
+August 30/19: Australia The US Navy awarded Wyle Laboratories an $8.4 million contract modification external link, which provides program management services for the F/A-18 Foreign Military Sales program in support of the government of Australia. The Royal Australian Air Force has operated the McDonnell Douglas F/A-18 Hornet fighter aircraft since 1984. The Hornets entered service with the RAAF between 1984 and 1990, and 69 remain in operation as of 2019. The fleet has undergone a major electronic upgrade to ensure effective operations for the next 10 years. Kyle Laboratories will perform work in Maryland, Washington, Pennsylvania, California, Virginia and Australia. Estimated completion date is in August next year.
+
+August 26/19: Engineering Logistics And Program Management The US Navy contracted external link Boeing a $23.7 million modification for engineering, logistics, and program management of the Super Hornet and Growler aircraft. The awarded deal is for reducing fleet out of reporting rates and maintenance planning. Boeing’s F/A-18E and F/A-18F Super Hornets are twin-engine multirole fighters, which are based on the F/A-18 Hornet. The single-seat F/A-18/E and the two-seat F/A-18/F fly greater ranges with heavier payloads, have more powerful engines and provide greater survivability than their predecessor. The Boeing EA-18G Growler is a derivative of the combat-proven two-seat F/A-18 Hornet, It is an airborne electronic attack aircraft which operates from either an aircraft carrier or from land-bases. The Growler aircraft has 11 weapon stations for carrying electronic mission systems and weapons and can then be used to carry out conventional strike missions when the requirements for EA and SEAD sorties are reduced. Boeing will perform work under the contract modification in St. Louis, Missouri and estimated completion is in September 2020.
+
+April 17/19: Repair Work The US Navy awarded external link two contracts for repair work on the F-18 aircraft. The first contract goes to Sierra Nevada Corp., which won $13.5 million to repair the beacon transmitter and beacon receiver of the Hornet aircraft. Sierra Nevada will perform work in Sparks, Nevada and expects completion by April 2024. International Enterprise Inc. won a $7.3 million modification to repair the multipurpose color display replacements of the Hornet. Work under this modification will take place in Talladega, Alabama and is expected to be finished by August 2020.
+
+April 1/19: F404 Repair The US Navy tapped external link General Electric for support of the F404 engine components used on the F/A-18 Hornet aircraft. The $77.6 million contract action provides for repair, replacement, and program support of 35 family groups of the F404. The General Electric F404 external link is an afterburning turbofan engine specifically developed for the Hornets. The F404 is based on the YJ101 external link engine, which General Electric had developed for the Northrop YF-17 but it enlarged the bypass ratio from .20 to .34 enabling higher fuel economy. More than 3,700 F404s are in service, including the engines on the Hornets operated by the Air Forces of Australia, Canada, Finland, Kuwait, Malaysia, Spain and Switzerland. The F404 has more than 10 million flight hours of outstanding operating experience and is combat-proven. A few days ago during the LIMA-19, the left F404-400 engine of a F/A-18D fighter of the Malaysian Air Force experienced a flameout 50 feet above the ground during a solo display. General Electric will perform work under the contract action in Jacksonville, Florida as well as at other facilities and will approximately be finished by March 2020.
+
+February 20/19: From Australia to Canada Two Australian F/A-18A Hornets arrived external link in Canada on Saturday. The two Hornets are the first of up to 25 aircraft that will be sold to Canada along with spares and support equipment. The Canadian government acquired the 30-year old jets in order of filling a capability gap affecting the Royal Canadian Airforce’s ability to simultaneously meet NORAD and NATO obligations. Originally, Canada had intended to supplement its fleet of 85 Boeing CF(F/A)-18 A/B fighters with 18 new Boeing F/A-18 E/F Super Hornets. This plan was cancelled in favor of the Australian Hornets when Boeing accused Canada’s Bombardier of receiving unfair subsidies from Ottawa. Before the aircraft can be integrated into the Canadian fleet of CF-188 Hornets, they will undergo several modifications in Mirabel, Quebec. They have to be brought to the same operational configuration as the Canadian CF-188 Hornets. This means cockpit and communications upgrades, a night vision imaging system, a sniper targeting pod, landing gear modifications, a new ejection seat as well as the Air Force paint scheme.
+
+June 21/16: Pressure is mounting on the Pentagon to approve the sale of F/A-18 Super Hornets to Kuwait though US Navy Secretary Ray Mabus has warned that his service will have to pay more external link to buy the F/A-18 due to cost increases. According to Mabus, Boeing needs more orders so that it can keep producing the fighter at an economical rate as the 16 slated for Fiscal year 2017 are not enough to ensure optimum production. Kuwait has been waiting over a year for approval for 28 fighters in a deal estimated to cost $3 billion.
+
+June 7/16: Canada looks set to procure an interim fleet external link of Boeing F/A-18 Super Hornets to fill a capability gap as it procrastinates on how to proceed with its new fighter competition. The Liberal Party leader Justin Trudeau promised during the election campaign not to buy the F-35 to replace its aging CF-18s; but the government has been struggling with how to fulfill that promise, for fear any attempt to exclude the stealth fighter from a competition will result in a multi-billion-dollar lawsuit, according to one senior Defence Department official.
+
+May 12/16: Software updates for the FA-18 and EA-18G have been validated by the US Navy external link after a series of flight tests between April 18-29. The first set of software: 27C, is designed for use in F/A-18A-D Hornets; H12 is for F/A-18F Super Hornets and EA-18G Growlers. Testing took place at the Naval Air Warfare Center Weapons Division-managed Point Mugu Sea Range which contains 36,000 square miles of controlled sea and airspace, allowing for testing in a real-world environment.
+
+May 4/16: Boeing has announced that they expect orders external link of F-15 and F/A-18 fighters to keep production rolling into the 2020s. While the last order of F-15s by Saudi Arabia will be completed by 2019, it is expected that the US Navy will purchase more F/A-18s while export orders of the F-15 will continue to partner nations. The company has recently been implementing a series of cost cutting measures to boost productivity in the wake of losing external link out on the recent bomber program for the USAF to Northrop Grumman.
+
+December 18/15: It looks like a very merry Christmas for Lockheed Martin and Boeing, as they came out as the major winners in the announced $1.15 trillion spending bill external link announced on Wednesday. Funding will see eleven more F-35 Lightning IIs than requested by President Obama in February. The F-35 program will see $1.33 billion additional procurement money as production of the fighters will be ramped up. The F/A-18 production line will also be extended, with seven more EA-18G Growlers and five F/A-18E/F Super Hornets planned.
+
+July 24/15: Boeing is committing external link to keep its F-18 production line open in response to new and forecast orders from both the US and international customers. The company was worried that insufficient orders for new Super Hornet and Growler aircraft would fail to materialize and keep the production line economically viable. Boeing considered external link slowing the production rate in March, to extend the time available for more orders to come through the door. Recent orders from the US Navy and Kuwait external link have bolstered the company’s confidence in keeping the production line open.
+
+Nov 4/14: Support. Boeing in Jacksonville, FL receives a $25.3 million indefinite-delivery/ indefinite-quantity contract modification for depot-level F/A-18A-D service life extension and remanufacturing activities, including associated maintenance support and sustainment capabilities.
+
+Work will be performed in Jacksonville, FL (91.7%), and St. Louis, MO (8.3%), and is expected to be completed in September 2015. Funds will be obligated on individual delivery orders as they are issued. US Navy NAVAIR in Patuxent River, MD manages the contract (N00019-14-D-0001).
+
+Nov 3/14: Support. Boeing in St. Louis, MO receives a $7.3 million cost-plus-fixed-fee, indefinite-delivery/ indefinite-quantity contract modification, exercising an option for post-production program management, logistics, and engineering services in support of F/A-18 A-F aircraft operated by Switzerland ($2.3M / 31.6%); Finland ($1.7M / 22.9%); Malaysia ($1.1M / 15.8%); Kuwait ($1.0M / 13.7%); Australia ($510,103 / 7%); Canada ($356,677 / 4.9%); and Spain ($298,498 / 4.1%). All funds are committed immediately.
+
+Work will be performed in St. Louis, MO, and is expected to be complete in December 2015. US Navy NAVAIR in Patuxent River, MD (N00019-14-D-0012).
+
+Nov 3/14: USMC Plan. The USMC’s Aviation Plan to 2030 outlines a future in which Hornets will remain in the fleet until 2030, instead of 2025. The main reason? The USMC believes it would be about $1 billion cheaper to retire the AV-8B Harrier fleet 5 years earlier and extend the Hornets 5 years later, based on 2 independent cost/benefit analyses. En route to this future, all West Coast MEUs will have F-35Bs instead of AV-8Bs by the end of FY 2019.
+
+For the Hornet fleet, the Center Barrel Replacement Plus (CBR+) program has already extended the lives of 200 aircraft. A High Flight Hour inspection process is in progress, and a SLEP program will take place in parallel to extend the lives of about 150 hand-picked F/A-18C/Ds to 10,000 flight hours. Unfortunately:
+
+“The USMC F/A-18A-D community is enduring a sustained shortage in excess of 40 aircraft fleet wide due to “Out Of Reporting” (OOR) maintenance. The USMC currently has eleven active squadrons and one reserve squadron that deploy with a full complement of aircraft, but the community is forced to absorb the shortfall during pre-deployment training due to a degraded Primary Mission Aircraft Inventory (PMAI). HQMC AVN is resetting the force by temporarily reducing squadron Flight Line Entitlement (FLE) to 10 aircraft to preserve future combat readiness while meeting today’s current operational requirements. Scalable squadron detachment models are being developed to meet the operational requirement without deploying excess assets, and Marine Corps Aviation is adding a detachment capability to each non-TAI VMFA. Forecasted improvements in aircraft availability will enable USMC F/A-18s to achieve 12 PMAI squadrons beginning in FY 17.”
+
+Meanwhile, a set of fleet upgrades will continue to improve the platform. 2015 will see advanced LITENING G4 surveillance and targeting pods add air-to-air IRST capability, and the addition of the longer-range AIM-120D air-to-air missile with its 2-way datalink and new seeker radar. 2017-18 will add upgraded cockpit displays, AIM-9X short-range air-to-air missiles, and the 70mm APKWS laser-guided rocket. By 2019, APKWS will be able to use the 13.7 pound M822 tri-mode penetrating/ blast/ incendiary warhead. Instead of just 1 AGM-65 Maverick per hardpoint, the Hornet fleet will have 7 anti-armor weapons that can defeat many armored personnel carriers, and all lesser vehicles. Sources: USMC external link, Marine Aviation Plan 2015 [PDF].
+
+May 18/14: Switzerland. Unsurprisingly, a tepid and convictionless defense of the JAS-39E Gripen NG fighter deal results in a referendum loss, with projections showing about a 53.4% no vote. The only surprise is that the margin was this narrow, indicating a winnable vote. Compare and contrast with the September 2013 referendum, which resulted in the Swiss keeping conscription. Or the government’s success in the referendum that ratified their F/A-18 Hornet buy.
+
+While some governments in Europe will re-run referendums until they get the result they like, the Swiss aren’t like that. The TTE fighter buy is history, but the F-5E/F fleet will still retire, placing more emphasis on their fleet of 30+ Hornets. Switzerland will need to supplement that fleet with French and Italian cooperation for basic airspace protection. Sources: Swissinfo, “Swiss Reject $3.5 Billion Gripen Purchase in Blow to Saab” | Deutsche Welle, “Swiss referendum turns down minimum wage and new fighter jets” | Reuters, “Swiss voters narrowly block deal to buy Saab fighter jets: projection”.
+
+Feb 28/14: Australia. Australia has changed and extended its F404 engine support contract with GE International Inc., to the tune of 4 years and A$ 230 million. This is also good news for local sub-contractor TAE, creating continued employment for 90 people in Williamtown, NSW, and Ipswich, Queensland.
+
+When Australia signed their long-term F404 support contract in 2008, the RAAF’s F/A-18AM/BM fleet was scheduled to begin drawdown in July 2015, and leave service by June 2018. Delays to the F-35 program have forced an interim RAAF buy of 24 F/A-18F Super Hornet Block IIs, and will soon add 12 related EA-18G Growlers. It’s also forcing longer service from the “Classic Hornet” fleet, which won’t leave service until 2022. The new fighters are an obvious cost of the F-35 program, but so are forced extensions like this one. Sources: Australia DoD, “Minister for Defence – Jobs remain in Australia under Hornet contract”.
+
+Jan 31/14: Boeing in St. Louis, MO receives a $26.8 million firm-fixed-price delivery order for the repair of various parts in support of the F/A-18 aircraft.
+
+All funds are committed immediately, using FY 2014 USN funds. Work will be performed at Lemoore, CA (55%); Cecil Field, FL (44%); and Philadelphia, PA (1%), and is expected to be complete by Dec 31/16. The contract was not competitively procured by the US Naval Supply Systems Command, Weapon Systems Support, Philadelphia, PA, per 10 U.S.C. 2304 (c)(1). The a., is the contracting activity (N00383-11-G-001H, DO 0004).
+
+Jan 22/14: SLEP. Boeing in Jacksonville, FL receives a $17.8 million firm-fixed-price, cost-plus-fixed-fee, indefinite-delivery/ indefinite-quantity delivery order contract to support the F/A-18 A-F Depot Level Service Life Extension Program, including both maintenance and remanufacturing work.
+
+Around $250,000 in FY 2014 USN aircraft budgets is committed immediately. Work will be performed in Jacksonville, FL (92%) and St. Louis, MO (8%), and is expected to be complete in September 2014. This contract was not competitively procured pursuant to FAR 6.302-1 (N00019-14-D-0001).
+
+Dec 30/13: Boeing in St. Louis, MO receives a $46.7 million firm-fixed-price, cost-plus-fixed-fee delivery order against a previously issued basic ordering agreement for integrated logistics support and sustaining engineering for F/A-18A-D, F/A-18E/F, and EA-18G aircraft for the U.S. Navy ($36.6M / 78.3%) and Australia ($7M / 15.1%); plus $501,289 / 1.1% each from Canada, Finland, Kuwait, Malaysia, Spain, and Switzerland. Support will include logistics, engineering, provisioning, information systems, technical data updates, support equipment engineering, training and software integration support.
+
+All funds are committed immediately. Work will be performed in St. Louis, MO (70%); El Segundo, CA (15%); Oklahoma City, OK (6%); Bethpage, NY (5%); and San Diego, CA (4%), and is expected to be complete in December 2014 (N00019-11-G-0001, 0110).
+
+2013
+ 
+
+USMC F/A-18C, CAP
+
+USMC F/A-18C
+(click to view full)
+Dec 27/13: Raytheon Technical Services Co. in Indianapolis, IN received a maximum $40.9 million delivery order against previously issued basic ordering agreement for the repair of 40 APG-65/73 Radar Weapon Replaceable Assemblies. The contract appears to be limited to the US military.
+
+The APG-65 is installed aboard USN and USMC F/A-18C/D Hornets (both radar types), and the USMC’s AV-8B Harrier II Plus V/STOL fighters. Abroad, it serves in AV-8Bs operated by Spain and Italy, in Spain’s “EF-18A/Bs” and Kuwait’s F/A-18C/Ds, and in German and Greek F-4 Phantom strike fighters.
+
+The APG-73 serves some of the USA’s F/A-18C/D Hornet fleet, and the USN’s F/A-18E/F Block I Super Hornet (APG-73) fighters. It’s also found in Hornets flown by Australia (F/A-18AM/BM), Canada (CF-18AM/BM), Finland (F/A-18C/D), Malaysia (F/A-18D), and Switzerland (F/A-18C/D).
+
+Work will be performed in Indianapolis, Ind. (57%); El Segundo, CA (24%); Forest, MS (17%); Andover, Maine (2%), and work is expected to be completed no later than December 2015. Fiscal 2014 Navy working capital funds in the amount of $20,455,642 will be obligated at the time of award, and will not expire before the end of the current fiscal year. The contract was not competitively procured and is issued on a sole-source basis in accordance with 10 U.SC 2304(c)(1). Naval Supply Systems Command, Weapon Systems Support, Philadelphia, PA manages the contract (N00383-14-G-006D, DO 7000).
+
+Dec 12/13: Boeing in St. Louis, MO receives a 5-year, maximum $872.8 million indefinite-delivery/ indefinite-quantity contract for “system upgrades…. deliverables and services based on System Configuration Set life cycle phases for the” F/A-18 A/B, C/D, E/F and EA-18G fighters. Customers include the US Navy ($802.9 million/ 92%) and the governments of Australia ($29.7 million/ 3.4%), Finland ($21.8 million/ 2.5%), Switzerland ($7 million/ 0.8%), Kuwait ($4.4 million/ 0.5%), Malaysia ($4.4 million/ 0.5%), and Canada ($2.6 million/ 0.3%). It is time for USN service life extension work to get going (q.v. Jan 6/11).
+
+Only 100,000 is committed upon award, using FY 2014 USN RDT&E budgets. Work will be performed as required in St. Louis, MO (95%) and China Lake, CA (5%), and is expected to be complete in December 2018. This contract was not competitively procured, pursuant to the FAR 6.302-1; it’s managed by the US Naval Air Warfare Center Weapons Division in China Lake, CA (N68936-14-D-0008).
+
+5-year support contract
+
+2012-2015
+Aging in the US, Australia; Avionics.
+
+F-18D Finnish Landing
+
+Finnish F/A-18D
+(click to view full)
+May 7/15: Reuters reported external link Wednesday that Boeing is on the cusp of being awarded a more than $3 billion contract for 28 F/A-18E/F Super Hornets, with the potential customer named as Kuwait. The Kuwaitis currently operate the older F/A-18 Hornet fighter. The sale, combined with a USN request for a dozen external link of the aircraft, should be sufficient to maintain the company’s St Louis production lines past their slated 2017 closure.
+
+Dec 28/12: Boeing in St. Louis, MO receives an $81.75 million firm-fixed-price delivery order covering integrated logistics support and sustaining engineering services for F/A-18 A-D Hornet and F/A-18 E/F Super Hornet fighters, and EA-18G Growler tactical jamming aircraft. They’ll provide in-service engineering, information systems, automated maintenance environment, technical data updates, support equipment engineering, training, and software integration support for the US Navy ($69.5M / 85%); and the Governments of Australia ($9.0M / 10.98%); Canada ($544,992 / .67%); Finland ($544,992 / 0.67%); Kuwait ($544,992 / 0.67%); Malaysia ($544,992 / 0.67%); Spain ($544,992 / 0.67%); and Switzerland ($544,992 / 0.67%)
+
+Work will be performed in St. Louis, MO (70%); El Segundo, CA (15%); Oklahoma City, OK (6%); Bethpage, NY (5%); and San Diego, CA (4%), and is expected to be complete in December 2013. This contract combines purchases under the Foreign Military Sales Program. All contract funds are committed immediately, and only $342,372 will expire at the end of the current fiscal year, on Sept 30/13. US NAVAIR in Patuxent River, MD manages the contract (N00383-06-D-001J).
+
+Dec 19/12: Malaysia ATFLIRs. Raytheon SAS in McKinney, TX receives a $25.7 million firm-fixed-price delivery order from Malaysia for 6 Advanced Targeting Forward Looking Infrared (ATFLIR) pods, which will be fitted to their F/A-18 C/D fighters. See “Malaysia Wants ATFLIR Targeting Pods for its F/A-18D Hornets” for full coverage.
+
+Dec 19/12: Engine Improvement. General Electric Aviation in Lynn, MA receives a $17.5 million cost-plus-fixed-fee delivery order for engineering and engine system improvement services, as part of the F414 and F404 Engine Component Improvement Programs. $10.8 million are committed immediately, of which $6 million will expire at the end of the current fiscal year, on Sept 13/13.
+
+This contract combines purchases for the U.S. Navy ($13.3M / 75.6%) and the Governments of Sweden ($1.3M / 7.4%); Australia ($832,277 / 4.8%); Canada ($516,877 / 3.0%); Spain ($514,156 / 2.9%); Finland ($380,856 / 2.2%); Korea ($225,793 / 1.3%); Kuwait ($233,955 / 1.3%); Switzerland ($204,030 / 1.2%), and Malaysia ($48,967 / 0.3%), under the Foreign Military Sales Program. Work will be performed in Lynn, MA, and is expected to be complete in December 2013. US NAVAIR in Patuxent River, MD manages the contract (N00019-09-G-0009).
+
+Dec 19/12: Avionics. Boeing in St. Louis, MO receives an $8.9 million firm-fixed-price delivery order against a previously issued Basic Ordering Agreement for 285 Joint Helmet Mounted Cueing System (JHMCS) retrofit kits in support of F/A-18C and F/A-18F aircraft.
+
+Work will be performed in St. Louis, MO (56%); Meza, AZ (37%); and El Paso, TX (7%), and is expected to be complete in June 2015. All contract funds are committed immediately, of which $1.35 million will expire at the end of the current fiscal year, on Sept 30/13. US NAVAIR in Patuxent River, MD manages the contract.
+
+Dec 19/12: Avionics. Boeing in St Louis, MO receives a $16.5 million firm-fixed-price delivery order for CY 2013 Avionics Repair Facility (ARF) labor support to repair various F/A-18 components. This contract also includes work for Spain and Kuwait (<1%).
+
+Work will be performed at ARF Lemoore, CA (48%); ARF Cecil Field, FL (49%), and Hornet Control Center in Philadelphia, PA (3%), and will be complete by Dec 31/13. All contract funds are committed immediately. The contract was not competitively procured in accordance with FAR 6.302-1 by US NAVSUP Weapon Systems Support in Philadelphia, PA (N00383-11-G-001H, #0003).
+
+Dec 19/12: Avionics. Boeing in St Louis, MO receives $8,366,154 firm-fixed-price delivery order for CY 2013 Avionics Repair Facility (ARF) labor support to repair various F/A-18 components.
+
+Work will be performed at ARF Lemoore, CA (48%); ARF Cecil Field, FL (49%), and Hornet Control Center in Philadelphia, PA (3%), and will be complete by Dec 31/13. All contract funds are committed immediately. The contract was not competitively procured in accordance with FAR 6.302-1 by US NAVSUP Weapon Systems Support in Philadelphia, PA (N00383-11-G-001H, #0002).
+
+Dec 3/12: Engines. General Electric in Lynn MA receives a 3-year, $265 million performance based logistics contract to provide repair, replacement and program support of 35 components used in F404 engines, which equip F/A-18A-D Hornets.
+
+Work will be performed at the Fleet Readiness Center Southeast in Jacksonville, FL and is expected to be complete by Dec 31/15. Funds will be committed as needed. This contract was competitively procured with 6 offers solicited, but just 1 offer received from the solicitation. US NAVSUP Weapon Systems Support in Philadelphia, PA (N00383-13-D-001M).
+
+Nov 21/12: USN Life Extension. Boeing in St. Louis, MO receives a $9.8 million cost-plus-incentive-fee contract modification for additional engineering analyses in support of the F/A-18A-D Service Life Extension Program.
+
+Work will be performed in St. Louis, MO (58%) and El Segundo, CA (42%), and is expected to be complete in September 2013. All contract funds are committed by US Naval Air Systems Command in Patuxent River, MD (N00019-12-C-2010).
+
+Nov 19/12: Boeing in St. Louis, MO received a $23.3 million firm-fixed-price delivery order for one-time F/A-18 “Generator Converter Unit Reliability Improvement” (ECP 6421SOW) engineering services.
+
+Work will be performed in Vandalia, OH (72%); St. Louis, MO (20%); Grand Rapids, MI (5%); Cincinnati, OH (1%); Youngwood, PA (1%); and Morrow, OH (1%), and is expected to be completed in December 2015. All contract funds will be obligated on this award, none of which will expire at the end of the current fiscal year. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00019-11-G-0001).
+
+Nov 16/12: Raytheon Space and Airborne Systems in Goleta, CA receives a $23.2 firm-fixed-price contract modification for ECM gear. The U.S. Navy is buying another 26 AN/ALR-67v3 radar warning receivers ($22.1M/ 95.5%), and Switzerland is buying 4 of the system’s countermeasure signal processor weapons replacement assemblies ($1.0M/ 4.5%).
+
+The USN flies Super Hornets that use the ALR-67v3, but the Swiss buy can only be for their F/A-18C/D Hornet fleet.
+
+Work will be performed in Forest, MS (32%); Goleta, CA (20%); San Diego, CA (14%); Chatsworth, CA (11%); Sydney, Australia (11%); Lansdale, PA (8%); and McKinney, TX (4%), and is expected to be complete in June 2015. All funds are obligated on this award, none of which will expire at the end of the current fiscal year. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00019-09-C-0052).
+
+Nov 15/12: USN Life Extension. The US GAO publishes GAO-13-51, “Better Cost Estimates Needed for Extending the Service Life of Selected F-16s and F/A-18s external link.” The lateness of the F-35, and high flight-hour usage over Iraq and Afghanistan, are making it hard to keep fighter numbers up. Current USAF plans involve $2.61 billion to upgrade at least 300 of 1,020 F-16s to fly another 2,000 hours (est. 6-8 years) each, add more advanced radars, etc. The USN would spend about $2.19 billion to keep 150 of 624 F/A-18A-D Hornet fighters flying for another 1,400 flight hours (est. 5 years) each, alongside a separate buy of 41 more F/A-18E/F Super Hornets.
+
+The alternative is a more expensive approach that would buy new F-16s or Super Hornets. They would cost much more, but last 4x-5x as long. The problem is that the cost of new planes is known, but costs of fixing existing aircraft to cover for additional F-35 delays or add new capabilities aren’t as clear. F-16 upgrades could rise to 650 planes, and F/A-18 Hornet life extension could rise to 280 planes, with the possibility of added capability upgrades.
+
+The US Navy’s 2011 plan for its Hornet fleet would take place over FY 2013-2017. The planes to be upgraded would be specially chosen, presumably for low wear and structural integrity. They would also be individually evaluated for capability enhancements, but those aren’t in the $2.19 billion budget. Current estimates involve another $1.76 million per Hornet for capability upgrades, and an average of $5.64 million more if the Hornets need structural life extension and obsolescence replacement. That gives us a figure of between $2.19 – $3.3 billion if 150 Hornets are upgraded ($14.6 – $22 million per plane), and the upper ends of that figure offer poorer long-term value for money than buying a new Super Hornet in the mid-$60 million range.
+
+If costs are linear, the total for a 280 plane program would be between $4.09 – 6.16 billion, but costs are often not linear. Hence the GAO’s recommendation to do a full sensitivity analysis, so decision makers can fully understand the range of Navy costs between $2.19 – $6.16 billion.
+
+Sept 28/12: Aging in Australia. The Australian reports external link that the RAAF has been ordered to scale back its usage of its modernized F/A-18AM/BM Hornets, in order to keep them viable until F-35 begin arriving in the early 2020s. Aging is taking a serious toll, and 62/71 fighters had “structure fatigue above that expected for the airframe hours.”
+
+Meanwhile, annual maintenance costs for Australia’s Hornet fleet were A$118 million in 2001, A$ 170 million in 2012, and is expected to be A$ 214 million by 2018. The ANAO sees costs continuing to climb, and says that keeping the fleet flying beyond 2020 could require more structural modifications program and capability upgrades, as well as more frequent inspections. Maintenance for Australia’s new F/A-18F Super Hornets is a separate effort, and does not affect their conclusions.
+
+Sept 27/12: An unfinalized $33 million contract line item number against delivery order under a previously awarded contract for various quantities of new consumable parts to support the F/A-18 aircraft. Work will be performed in St. Louis, MO, and the contract will run until Dec 30/15.
+
+The applicable Navy Working Capital Funds will not expire at the end of the current fiscal year. Boeing was the only company solicited for this non-competitive requirement by NAVSUP Weapon Systems Support in Philadelphia, PA (N00383-06-D-001J, #0014).
+
+Aug 29/12: A $27.8 million firm-fixed-price, cost-plus-fee requirements contract modification. Boeing will provide supplies and services for In-Warranty and Out-Of-Warranty depot-level modification installations and In-Service Repairs (ISR).
+
+Work will be performed in Jacksonville, FL and is expected to be complete in September 2013. No funding is being obligated at time of award; it will be committed as needed. US Naval Air System Command in Patuxent River, MD manages the contract (N00019-11-D-0013).
+
+June 19/12: Raytheon Technical Services Co. in Indianapolis, IN receives $40.3 million for unpriced deliver order 7284, covering the repair of 35 weapons repairable assemblies and shop replaceable assemblies of the APG-65/73 Radar System used on F/A-18 Hornet aircraft. The AN/APG-73 is also used on a dwindling number of F/A-18E/F Super Hornets, as those radars are replaced with AN/APG-79 AESA equipment.
+
+Work will be performed in Indianapolis, IN (56.93%); El Segundo, CA (33.79%); Forest, MS (7.25%); and Andover, MA (2.03%), and is expected to be complete by June 30/14. The contract will use FY 2012 Navy Working Capital Funds, but they won’t expire at the end of the fiscal year. This was a sole-source contract by US NAVSUP Weapon Systems Support in Philadelphia, PA (N00383-07-G-008D).
+
+May 30/12: Multinational. Northrop Grumman Systems Corp. in El Segundo, CA receives a $14 million firm-fixed-price, sole-source contract for F-18 aircraft rudders, which they’ll supply to the US Navy (using FY 2014-2015 Navy Stock funds), Finland, Spain, and Switzerland. Work will continue until Oct 30/15. The Defense Logistics Agency Aviation in Philadelphia, PA manages the contract (SPRPA1-11-G-002Z, 5036).
+
+2011
+USN; Malaysia; Kuwait.
+
+F-18B Spain vertical
+
+Spanish EF-18B
+(click to view full)
+Dec 29/11: Boeing in St. Louis, MO receives a $9.8 million cost-plus-incentive-fee contract for supplies and services to support the USA’s F/A-18A-D Service Life Extension Program. Work will be performed in St. Louis, MO (58%), and El Segundo, CA (42%), and is expected to be complete in February 2013. This contract was not competitively procured pursuant to FAR 6302.1. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00019-12-C-2010).
+
+Nov 28/11: Malaysia. Boeing in St. Louis, MO receives a $17.3 million firm-fixed-price order for the design, development, and installation of engineering change proposal (ECP 618) retrofit kits for the RMAF’s 8 F/A-18D Hornet fighters, under the Foreign Military Sales Program. This contract action also includes training for ECP 618 and ECP 624, and the installation of other systems that are part of the Malaysian upgrade. Conversations with Boeing explain that:
+
+“This contract includes design, development, and installation of retrofit kits that will provide enhanced navigation and targeting capabilities, along with associated training for maintenance and air crews. The majority of work to be performed under this contract is within the scope defined in the baseline Foreign Military Sales case and not the May 2011 Defense Security Cooperation Agency announcement for the Advanced Targeting Forward Looking Infrared [targeting pods, see DID coverage] which itself was an amendment to the existing baseline FMS case.”
+
+That scope includes GPS improvements, a colored moving-map cockpit display, changes to IFF, and the addition of the JHMCS helmet-mounted sight. Work will be performed in St. Louis, MO (70%), and Butterworth, Malaysia (30%), and is expected to be complete in April 2015. US Naval Air Systems Command in Patuxent River, MD will manage the sale on behalf of its FMS client. See also Boeing external link.
+
+Nov 8/11: Kuwait. The US DSCA announces external link [PDF] Kuwait’s request to buy continuing Contractor Engineering & Maintenance Services, Hush House Maintenance Support services, Liaison Office Support Services, and related US government and contract support for their F/A-18C/D Hornets. The estimated cost is $100 million.
+
+The principal contractors will be Boeing in St. Louis, MO; Kay and Associates in Buffalo Grove, IL; Industrial Acoustics Company in Winchester, UK; and General Dynamics in Fairfax, VA.
+
+Nov 7/11: Multinational. Boeing in St. Louis, MO receives a $7.9 million cost-plus-fixed-fee, indefinite-delivery/ indefinite-quantity contract modification, exercising options from for F/A-18 Hornet in-service support on behalf of Switzerland ($2.42 million; 30.7%); Finland ($1.8 million; 22.9%); Canada ($925,000; 11.7%); Kuwait ($919,250; 11.7%); Malaysia ($919,250; 11.7%); Australia ($490,800; 6.2%); and Spain ($404,914; 5.1%). Boeing services will include program management, logistics, engineering support, incidental materials, and technical data.
+
+Work will be performed in St. Louis, MO, and is expected to be complete in December 2012. This is a Foreign Military Sales Program contract, managed by US NAVAIR in Patuxent River, MD (N00019-09-D-0010).
+
+Sept 28/11: Boeing in Jacksonville FL received a $31.5 million firm-fixed-price, cost-plus-fee requirements contract. It covers supplies and services for in-warranty and out-of-warranty depot-level modification installations, and in-service repairs incident to modification kit installs, including associated material and services as required to support the continued safe, reliable, and improved operation of the F/A-18 series aircraft.
+
+Work will be performed in Jacksonville, FL, and is expected to be complete in September 2012. Funding will be committed as needed, and this contact was not competitively procured by US Naval Air System Command in Patuxent River, MD (N00019-11-D-0013).
+
+Aug 31/11: Canada. Canada adds up to C$ 111 million (currently around $112 million) to its CF-18 Primary Air Vehicle contract with L-3 Military Aviation Services (L-3 MAS), converting the previous arrangement to a full Optimized Weapon System Support program.
+
+The contract breaks down as another C$ 80 million to 2017 in the base contract (now C$ 547 million), plus a set of extension options that could extend the additional work out to 2020 and raise the total by C$ 111 million, taking the overall contract to C$664 million (currently $676 million). OWSS adds new items to the previous contract’s list of maintained components (vid. Sept 1/10, see also Oct 14/10) by consolidating them under this 1 contract, but doesn’t change contract length or other particulars. Public Works Canada external link | L-3 MAS external link [PDF].
+
+Aug 25/11: USN Life Extension. AOL Defense reports external link that some USMC Hornets are reaching service life limits, which have risen to 9,000 – 10,000 flight hours after the full Service Life Extension Program.
+
+“Headquarters Marine Corps – Aviation, who oversee the service’s aviation budget, were adamant the SLEP effort would go no further than the 9,000- to 10,000-hour extension… [Marine Corps spokesman Capt. Brian] Block told AOL Defense that the highest average flight time on any service F/A-18 Hornet is just over 8,500 hours. “Moreover, not a single F/A-18 Hornet in the Department of the Navy inventory has surpassed the 9,000 hour mark,” Block said… Block said that Marine Corps crews “are conducting routine maintenance at an accelerated pace due to higher utilization”… Maj. Gen. Jon Davis, commander of the 2nd Marine Corps Air Wing [said that] “You cannot keep it up forever.”
+
+March 30/11: A $24.2 million cost-plus-fixed-fee contract modification for “supplies and services to support depot-level modification installations and in-service repairs of [USN/USMC] F/A-18 series aircraft.” Work will be performed in Jacksonville, FL, and is expected to be complete by September 2011. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00189-08-D-Z028).
+
+March 4/11: Multinational. Martin-Baker Aircraft Co., Ltd. in Middlesex, England receives an $18.3 million firm-fixed price contract modification to exercise an option for 65 Navy Aircrew Common Ejection Seats (NACES). They will equip F/A-18 A+/C+ Hornets and F/A-18E/F Super Hornet and EA-18G Growler aircraft flown by the U.S. Navy ($18.2M/ 99.4%), and the air forces of Australia (F/A-18A+ and F/A-18F; $51,920/ 0.27%) and Kuwait (F/A-18C+; $61,730; 0.33%). This option also buys associated hardware, equipment, technical data, and production support services.
+
+Work will be performed in Johnstown, PA (60%), and Middlesex, England (40%), and is expected to be complete in December 2012. Contract funds will not expire at the end of the current fiscal year. US Naval Air Systems Command in Patuxent River, MD manages the contract. See also Feb 25/11 entry.
+
+March 3/11: Boeing in St. Louis, MO receives an $8.8 million firm-fixed-price delivery order for integrated logistics support; in-service engineering; information systems; technical data; support equipment engineering; automated maintenance environment; training/software integration support; provisioning; and A-D sustaining engineering services in support of the F/A-18 A-D Hornet, F/A-18 E/F Super Hornet, and EA-18G Growler aircraft.
+
+Work will be performed in St. Louis, MO (70%); El Segundo, CA (15%); Oklahoma City, OK (6%); Bethpage, NY (5%); and San Diego, CA (4%), and is expected to be complete in December 2011. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00383-06-D-001J).
+
+Feb 28/11: USN Life Extension. A Gannett Navy Times article external link details the efforts underway to keep the US Navy’s fleet of F/A-18 A-D Hornet fighters in service, until some of them can be replaced by F-35B/C jets.
+
+The USN’s F/A-18 program manager, Capt. Mark Darrah, is quoted as saying that the Hornet fleet is averaging about 330 flight-hours per year, which means they’re consistently about 30% above planned usage. Many have now exceeded even their extended usage figure of 8,000 flight hours. Fortunately, their accident rate remains low.
+
+Carrier Air Wing 7 commander Capt. Roy Kelley adds that the F/A-18E/F Super Hornet fleet is also burning through airframe hours, with 73 of the fleet’s 418 aircraft already over 3,000 hours – wich is about half-way through their safe design lifetimes.
+
+The Navy hopes to extend its Hornet airframes to 10,000 safe flight hours, up from the easier target of 8,600. Each plane costs about $15 million when put through the deep inspections and refurbishment program. It’s accompanied by detailed record-keeping, and a constant juggling act among the squadrons. Darrah says that NAVAIR/NAF’s quarterly modification review “literally makes the decisions every quarter on, bureau number by bureau number, what aircraft will be assigned to what units,” based heavily on flight hour and maintenance issues. Once on the carrier, that juggling continues. Networking has made flight data files compilable and accessible across the fleet, allowing for remote analysis by expert teams, and letting squadrons pick less demanding missions for high-hours airframes, in order to even out wear and tear.
+
+Feb 25/11: A $10.8 million order for the US Navy’s F/A-18 A-D Navy aircrew common ejection seat retrofit: 24 multipurpose display indicators; 12 horizontal situation displays; and 37 install kits (AFC-430, AFC-493, and AYC-1363).
+
+Work will be performed in Toronto, Ontario, Canada (57%); St. Louis, MO (24%); Halifax, Nova Scotia, Canada (3%); Grand Rapids, MI (2%); Sylmar, CA (1%); Tempe, AR (1%); El Paso, TX (1%); El Segundo, CA (1%); and various locations throughout the United States (10%); and is expected to be complete in February 2013. All contract funds will expire at the end of the current fiscal year, on Sept 30/11 (N00019-11-G-0001).
+
+Jan 6/11: USN Life Extension. As part of a plan detailing $150 billion in service cuts and funding shifts over the next 5 years, Defense Secretary Robert Gates states that he is placing the Marine Corps’ F-35B on the equivalent of a 2-year probation, extends the F-35 program’s development phase again to 2016, and cuts production of all models over the 2012-2016 time period.
+
+In response, the Navy will add 41 Super Hornets, and perform service life extension work on another 150 F/A-18 A-D Hornets. Pentagon release external link re: overall plan | Full Gates speech and Gates/Mullen Q&A transcript external link | F-35 briefing hand-out external link [PDF] || Aviation Week external link | Fort Worth Star-Telegram’s Sky Talk blog external link.
+
+2010
+Australia; Canada; Finland; Switzerland.
+
+F-18D Malaysia
+
+Malaysian F/A-18D:
+Bersama Shield 2010
+(click to view full)
+Dec 30/10: FIRST. Boeing in St. Louis, MO receives a $69.1 million delivery order under the F/A-18 Integrated Readiness Support Team (FIRST external link) Program for continued support of F/A-18 A-D Hornet, F/A-18 E/F Super Hornet, and EA-18G Growler fleets of the U.S. Navy ($64.6M/ 93.6%); and the governments of Australia ($1.7M/ 2.5%), Canada ($513,996; 0.7%), Spain ($513,996/ 0.7%), Finland ($513,966/ 0.7%), Switzerland ($513,996; 0.7%), Kuwait ($513,996/ 0.7%), and Malaysia ($256,998/ 0.4%).
+
+Under FIRST, which began in 2001, Boeing manages and forecasts spares and repairs, oversees spares inventories, makes supportability improvements within the budget in order to meet its availability targets, and handles obsolescence management and technology insertion. Like the British “contracting for availability” agreements, the objective is to improve fleet support and aircraft readiness while reducing costs. Boeing will be rewarded for having the aircraft meet in-service readiness targets, rather than getting paid for spare parts or hours worked.
+
+Work will be performed in St. Louis, MO (70%); El Segundo, CA (15%); Oklahoma City, OK (6%); Bethpage, NY (5%); and San Diego, CA (4%); and is expected to be complete in December 2011. US Naval Air Systems Command in Patuxent River, MD manages this contract (N00383-06-D-001J).
+
+Dec 27/10: Finland/ Switzerland. A $66.2 million firm-fixed-price delivery order under the basic ordering agreement for weapon replaceable assemblies and other complex parts used in retrofitting F/A-18C/D aircraft for the governments of Finland (62/ $44.6M/ 67%), and Switzerland (33/ $21.6M/ 33%).
+
+Work will be performed in Cedar Rapids, IA (44.8%); St. Louis, MO (26.8%); Fort Worth, TX (14.9%); Oakland, NJ (6.4%); Grand Rapids, MI (3.3%); Butler, NJ (1.3%); Sylmar, CA (1%); Killdeer, ND (0.5%); Mesa, AZ (0.4%); El Segundo, CA (0.3%); Wallingford, CT (0.2%); and Horsham, PA (0.1%), and is expected to be complete in April 2015. US Naval Air Systems Command in Patuxent River, MD manages the contract on behalf of these Foreign Military Sale clients (N00019-11-G-0001).
+
+Dec 23/10: Multinational. Moog, Inc. in East Aurora, NY receives a $17.3 million order for 1,626 kits required to complete engineering change proposal #1054 for F/A-18 LA-d leading edge flap mechanical drive group system for the US Navy (1,260/ $13.4M/ 77.49%) and the governments of Finland (138/ $1.5M/ 8.49%), Kuwait (94/ $998,374/ 5.78%), Switzerland (68/ $722,228/ 4.18%), Spain (50/ 531,050/ 3.08%), and Malaysia (16/ $169,936/ 0.98%).
+
+Work will be performed in Torrance, CA, and is expected to be completed in November 2014, but $13.4 million will expire at the end of the current fiscal year, on Sept 30/11. US Naval Air Systems Command in Patuxent River, MD manages these contracts on behalf of all customers (SPM4A1-06-G-0002).
+
+Dec 22/10: A $10.3 million firm-fixed-price delivery order #0010 under previously awarded contract (N00383-06-D-001J) for production of nose landing gears used on the F/A-18 aircraft. Work will be performed in St. Louis, MO, and is expected to be complete by January 2015. This contract was not competitively awarded by the Naval Inventory Control Point in Philadelphia, PA.
+
+Dec 22/10: Multinational. Raytheon Technical Services in Indianapolis, IN receives $33 million for a priced delivery order of APG-65/73 radar system components used in support of the F/A-18 aircraft. AN/APG-65 radars are exclusive to the F/A-18 A-D Hornet, including Spain and Kuwait’s models; while the AN/APG-73 equips older F/A-18 E/F Super Hornets, as well as F/A-18 upgrades and C/D model Hornets flown by the USMC, Australia, Canada, Finland, Malaysia, and Switzerland. Many Super Hornets with APG-73 radars are having them replaced by next-generation AN/APG-79 AESA models, so Super Hornets will form a diminishing base for the older APG-73.
+
+Work will be performed in Indianapolis, IN (65%); El Segundo, CA (20%); Forest, MS (13%); and Andover, MA (2%), and is expected to be complete by January 2015. This contract was not competitively awarded by the US Naval Inventory Control Point in Philadelphia, PA, as there’s just 1 manufacturer for these radars (N00383-07-G-008D, #7152).
+
+Dec 21/10: A $13.4 million firm-fixed-price delivery order for Avionics Repair Facility support, to repair various F/A-18 components. Work will be performed in Lemoore, CA (49%); Cecil Field, FL (49%); and Philadelphia, PA (3%), and is to be complete by December 2011.
+
+This effort includes the governments of Spain, Malaysia, and Kuwait (all less than 1%) under the Foreign Military Sales program, and was not competitively awarded by the US Naval Inventory Control Point in Philadelphia, PA (N00383-07-G-005H, #0012).
+
+Dec 3/10: Kuwait. Boeing in St. Louis, MO receives a $16.9 million delivery order for supplies and services required to upgrade 39 Kuwaiti F/A-18C/D Hornet fighters. The upgrades will add a Miniature Airborne Global Positioning Receiver 2000 with selective availability anti-spoofing module (SAASM), corresponding improvements to the fighters’ moving map displays, and a cockpit pressurization warning system.
+
+Work will be performed in Ahmed Al-Jaber Air Base, Kuwait (90%), and in St. Louis, MO (10%), and is expected to be complete in June 2014. The Naval Air Systems Command in Patuxent River, MD will manage this contract on behalf of the Foreign Military Dale customer (N00019-05-G-0026). Kuwait is currently evaluating long-term replacement options for its Hornet fleet, with France’s Rafale billed as a leading contender.
+
+Nov 22/10: Multinational. Boeing receives a $7.6 million cost-plus-fixed-fee, indefinite-delivery/indefinite quantity contract modification, exercising an option for in-service support of F/A-18 Hornet aircraft of the governments of Australia ($464,714; 6%), Canada ($872,514; 12%), Finland ($1.7M; 22%), Kuwait ($874,264; 12%), Malaysia ($864,264; 11%), Spain ($385,847; 5%), and Switzerland ($2.46M; 32%). Services to be provided include program management, logistics, engineering support, and incidental materials and technical data.
+
+Work will be performed in St. Louis, MO, and will run to in December 2011. The US Naval Air Systems Command in Patuxent River, MD manages the contract (N00019-09-D-0010).
+
+Oct 14/10: Canada. The Canadian government has contracted Calgary-based Harris Canada Inc. external link to continue avionics maintenance of its CF-18 fighter jets, until their replacements are ready to fly. The contract is worth up to C$ 273.8 million (currently at rough parity with American dollar) until 2020.
+
+It is more focused than the larger L-3 MAS contract (q.v. Sept 1/10), which covers the entire aircraft, but it’s a similar sort of extension. Canadian Press external link | The Globe and Mail external link.
+
+Sept 24/10: Multinational. A $21.6 million firm-fixed-price delivery order for integrated logistics support, in-service engineering, information systems, technical data, support equipment engineering, automated maintenance environment, training/software integration support, provisioning and sustaining engineering in support of F/A-18 A-D, E/F, and EA-18G aircraft. This modification combines purchases for the U.S. Navy ($18.5 million; 85.7%) and the governments of Australia ($2.5 million, 11.5%); Canada ($212,300, 1%); Spain ($147,700, 0.7%); Finland ($98,500, 0.5%); Kuwait ($61,500, 0.3%), Switzerland ($52,300, 0.2%), and Malaysia ($12,300; 0.1%), under the Foreign Military Sales program.
+
+Work will be performed in St. Louis, MO (70%); El Segundo, CA (15%); Oklahoma City, OK (6%); Bethpage, NY (5%); and San Diego, CA (4%); and is expected to be complete in December 2010. The Naval Air Systems Command, Patuxent River, MD manages the contract (N00383-06-D-001J).
+
+Sept 22/10: Northrop Grumman Corp., Integrated Systems, El Segundo, CA receives a $35.6 million firm-fixed-price contract modification for 33 F/A-18 A-D center barrel sections, and loose and miscellaneous parts. Work will be performed in El Segundo, CA, and is expected to be complete in October 2013. US Naval Air Systems Command in Patuxent River, MD manages the contract (N00019-10-C-0052).
+
+Sept 1/10: Canada. The Canadian Prime Minister’s Office announces that the government has extended its CF-18 Systems Engineering Support Contract to L-3 Communications MAS of Mirabel, Quebec until at least 2017. This 7-year contract extension is valued at C$ 467 million, with 3 additional 1-year extension options that could add another C$ 86 million (C$ 553 million total), and stretch the contract until the end of the fleet’s estimated service life in 2020.
+
+The contractor’s primary responsibility for the CF-18 Hornet fleet is development and maintenance work that includes mission software, structural testing, depot-level inspections and repairs, technical support teams, and other engineering services. In addition to their Canadian maintenance work, they’ve also been involved in Australia’s HUG external link [PDF] Hornet upgrade and life-extension program. Canadian PMO external link | L-3 MAS external link [PDF] | CBC external link | National Post external link.
+
+June 24/10: Australia. L-3 MAS announces external link [PDF] the on-time delivery of the last of 10 Royal Australian Air Force F/A-18 Hornet aircraft for which it performed Centre Barrel Replacement (CBR) work, under contract to the Australian Defence Materiel Organisation (DMO). See March 6/06 entry, which covered initial prototype work, and was followed by a production and integration contract. See also Aug 22/07 entry.
+
+Under the DMO’s Hornet Upgrade Phase 3 (HUG 3) program, the aircraft systems and wings were removed in Williamtown by BAE Systems Australia. The Hornet fuselages were airlifted to the L-3 MAS CBR-dedicated facility in Mirabel, Canada on a leased AN-124 heavy cargo aircraft, then sent back to Williamtown for final assembly and returned to flight status by BAE. See also BAE Systems Australia external link.BAE Systems Australia.
+
+2009
+Australia; Finland; Kuwait.
+
+F-18C, Kuwait
+
+Kuwaiti F/A-18C
+(click to view full)
+Dec 28/09: Kuwait. DynCorp International LLC in Fort Worth, TX received external link a $16.9 million modification to a previously awarded cost-plus-fixed-fee contract (N00019-06-C-0308), exercising an option for maintenance services in support of the Kuwaiti Air Force F/A-18 Program under the Foreign Military Sales Program. Work will be performed in Kuwait (90%) and Fort Worth, TX (10%), and is expected to be complete in December 2010. The Naval Air Systems Command in Patuxent River, MD issued the contract.
+
+Dec 8/09: A $6.6 million not-to-exceed order against a previously issued Basic Ordering Agreement (N00019-05-G-0026) for F/A-18 A-D Service Life Extension Program Phase B+ engineering support services. Work will be performed in St. Louis, MO (55%), and El Segundo, CA (45%), and is expected to be completed in December 2010. The Naval Air Systems Command in Patuxent River, MD issued the contracts.
+
+Dec 2/09: Kuwait. A $9.5 million order against a previously issued Basic Ordering Agreement (N00019-05-G-0026) for the necessary personnel, material and support to repair or replace damaged components of Kuwait F/A-18 aircraft tail number 421 for the government of Kuwait under the Foreign Military Sales program.
+
+Work will be performed at Ahmed Al Jaber Air Base, Kuwait, and is expected to be complete in December 2012. The Naval Air Systems Command in Patuxent River, MD manages the contract.
+
+Nov 12/09: Multinational. A $10.8 million modification to a previously awarded cost-plus-fixed-fee, indefinite-delivery/ indefinite-quantity contract (N00019-09-D-0010, exercising an option to provide in-service support for Switzerland ($2.7 million; 25%), Australia ($1.6 million; 15%), Finland ($1.6 million; 15%), Canada ($1.6 million; 15%), Kuwait ($1.1 million; 10%), Malaysia ($1.1 million; 10%) and Spain’s ($1.1 million; 10%) F/A-18 Hornets. This effort will include, but is not limited to, program management, engineering and logistics support. Work will be performed in St. Louis, MO, and is expected to be complete in December 2010. The Naval Air Systems Command in Patuxent River, MD manages the contract.
+
+Nov 5/09: Finland. A $13.7 million firm-fixed-price delivery order against a previously issued basic ordering agreement (N00019-05-G-0026) for 2 F/A-18C/D Mid-Life Upgrade 2 validation-verification kits for the Finnish Air Force under the Foreign Military Sales program. Work will be performed in St. Louis, MO, and is expected to be complete in September 2011. The Naval Air Systems Command in Patuxent River, MD manages the contract.
+
+May 28/09: Australia. L-3 MAS and BAE Systems Australia announce a 4-year, A$ 150 million contract to provide long term maintenance and modification support to the Royal Australian Air Force’s F/A-18 Hornet aircraft, with 5 years of additional extension options through 2018. L-3 MAS external link.
+
+March 18/09: Boeing subsidiary McDonnell Douglas Corp. received a $6.6 million firm-fixed-price order against a previously issued basic ordering agreement (N00019-05-G-0026). They will perform for inner wing conversion and reliability improvements required pursuant to Engineering Change Proposal (ECP) 609. This ECP will convert existing F/A-18A/B Lots 5-9 Inner Wing assemblies to be compatible with F/A-18 C/D (Lots 10, 11, 12, and up) aircraft. This ECP also defines changes required to convert existing F/A-18 C/D Lots 10 and 11 Inner Wings to be compatible with F/A-18 C/D Lots 12 and up aircraft, addresses reliability issues with 2 fuel tubes by replacing them with heat treated versions, and defining requirements to improve sealing of the inner wing, in order to prevent stress corrosion cracking of the lower spar flanges.
+
+Work will be performed in St. Louis, MO (74%) and Mesa, AZ (26%), and is expected to be complete in December 2012. The Naval Air Systems Command in Patuxent River, MD manages the contract.
+
+Feb 13/09: Multinational. Boeing subsidiary McDonnell Douglas Corp. received a $10.4 million cost plus fixed fee, indefinite-delivery/ indefinite-quantity contract. They will provide program management, logistics, and engineering services and incidental materials and technical data in support of F/A-18s flown by Australia ($927,200/ 8.9%), Canada ($1.6M/ 15.56%), Finland ($2.2M/ 21.32%), Kuwait ($1.3M/ 12.45%), Malaysia ($806,352/ 7.74%), Spain ($362,000/ 3.48%), and Switzerland ($3.2M/ 30.55%). The Naval Air Systems Command in Patuxent River, MD manages this contract (N00019-09-D-0010).
+
+2008
+Cracks in US fleet. Australia; Finland; Switzerland.
+
+Swiss F-18C Landing
+
+Swiss F/A-18C
+(click to view full)
+Dec 19/08: Multinational. Boeing subsidiary McDonnell Douglas Corp in St Louis, MO received cost-plus-incentive-fee, cost-plus-fixed-fee contract with an estimated value of $905.3 million. In return, the firm will provide the support services required to enhance the F/A-18 A-D Hornet, F/A-18 E/F Super Hornet, and EA-18G Growler aircraft with a series of System Configuration Sets (SCS) for F/A-18 family aircraft operated by the U.S. Navy, U.S. Marine Corps, and the Governments of Canada, Australia, Spain, Kuwait, Switzerland, Finland and Malaysia.
+
+Work will be performed in St. Louis, MO (95%) and at the Naval Air Warfare Center Weapons Division, China Lake, CA (5%), and is expected to be complete in December 2013. The Naval Air Warfare Center Weapons Division in China Lake, CA issued the contract (N68936-09-D-0002).
+
+Dec 17/08: Switzerland. The Swiss Standerat approves the defense program, including Hornet modernization. Armasuisse release external link [in German].
+
+Dec 9/08: Australia. Australia’s government announces that the final Hornet Upgrade (HUG) Phase 2.2 aircraft has now been delivered with modifications to the radar system, avionics system, electronic warfare suite and a Hornet aircrew training system. The last of 14 RAAF Hornets to receive the interim electronic warfare upgrade has been successfully delivered under HUG Phase 2.3 with Raytheon’s ALR-67v3 radar warning system. Both upgrade sets were reportedly delivered on time and on budget. The next stage of HUG 2.3 is set to begin in May 2009, and will add a new countermeasures dispensing system, new data recorder and a further software upgrade. Australian DoD release external link.
+
+Oct 23/08: Cracking up? The US Navy orders inspections across its 636 plane Hornet fleet, after cracks are found in aileron hinges on 15 aircraft. In December 2008, a crash kills 3 people and destroys several San Diego houses – but it appears to be the result of an engine failure. Read “Aging Aircraft: Cracks in USA’s F/A-18 fleet” for more.
+
+Oct 1/08: General Electric in Lynn, MA received a 5-year, $641 million Performance Based Logistics (PBL) requirements contract for the F404 engine used on the F/A-18 A-D aircraft. PBL contracts are structured with bonuses for meeting key performance requirements like readiness, and penalties for failing to meet them.
+
+Repair, replacement, and program support work will be performed at Lynn, MA, and is expected to be complete by December 2012. This effort combines efforts with the U.S. Navy (97%) and the Government of Switzerland (1%); Finland (1%), and Kuwait (1%) under the Foreign Military Sales Program. This contract was not competitively procured by the Naval Inventory Control Point.
+
+Sept 26/08: Multinational. A $10.2 million firm-fixed-price order against a previously issued basic ordering agreement (N00019-05-G-0026) for 703 F/A-18 Cockpit Pressure Warning System kits to equip the U.S. Navy, (590, $7.9 million, 77.8%) and the Governments of Finland, (66, $994,999, 9.8%), Kuwait (39, $863,000, 8.5%) and Malaysia (8, $399,854, 3.9%).
+
+Work will be performed in St. Louis, MO (85%) and Mesa, AZ (15%), and is expected to be complete in October 2012. Contract funds in the amount of $3.9 million will expire at the end of the current fiscal year.
+
+Sept 26/08: A $13.6 million modification to a previously awarded firm fixed price contract (N00019-04-C-0014) for incorporation of Engineering Change Proposal (ECP) 6318 “Incorporation of upgraded Solid State Recorder (USSR)” to provide “high fidelity recording of the 14 F/A-18E, 9 F/A-18F, and 22 EA-18G 8 x 10 display that retains and expands on the current Solid state Recorder capabilities.”
+
+Despite the references confining the upgrades to Super Hornet family aircraft, this modification/order is said to combine purchases for the U.S. Navy ($7.6 million, 56%) and the Governments of Switzerland ($3 million, 22%) and Finland ($3 million; 22%) under the Foreign Military Sales Program. The latter 2 countries, of course, fly only F/A-18C/D Hornets. Work will be performed in St. Louis, MO, and is expected to be complete in November 2010.
+
+Sept 25/08: Switzerland. General Dynamics Information Technology announces external link a 5-year contract to provide program management services for the Swiss government’s F/A-18 fleet. The contract has a total potential value of $25.7 million if all options are exercised. General Dynamics will provide logistics, information technology (IT) and engineering support, along with communications management and training services.
+
+Sept 25/08: Switzerland/ Finland. Boeing subsidiary McDonnell Douglas Corp. received a $20.1 million modification to a previously awarded indefinite-delivery/ indefinite-quantity contract (N00019-04-D-0015) for new cockpit display suites on behalf of Switzerland and Finland. These suites will be used as lab assets for the design and development of a new cockpit display associated with both countries’ F/A-18C/D upgrade programs. Work will be performed in St. Louis, MO, and is expected to be complete in December 2011. The US Naval Air Systems Command (NAVAIR) manages the contract.
+
+Sept 24/08: Switzerland. The Swiss House of Representatives rejects the PA08 program, dealing a political blow to defence minister Samuel Schmid, and a program blow to F/A-18 modernization. Switzerland’s Senate will vote on it again in December 2008.
+
+The problem is Swiss party politics. While the left-wing Greens and Social-Democrats are reliably opposed to such measures, the right-wing People’s Party (SVP) has threatened to veto and block all new arms expenditures. Samuel Schmid’s personal break with the SVP appears to be paying negative dividends; without SVP support, the centre-right Radicals and Christian Democrats lack the required votes. ISN analysis external link | Swiss Info story external link.
+
+Sept 22/08: Switzerland. The Swiss Federal Council announces approval of the country’s SFR 917 million (about $844 million) Armaments Program 2008 (PA 08). Within that program, SFR 404 million is earmarked to maintaining and upgrading Switzerland’s 33 F/A-18C/D fighters.
+
+“[the fleet] must be prepared for the second part of its 30-year service life… to reduce costs, their modernization will be undertaken in parallel with those of other countries. However, because of cost issues, Swiss F/A-18s will not [be] equipped for air-to-ground missions, nor for aerial reconnaissance.”
+
+Read “Switzerland’s Hornet Upgrade 25 Program” for more.
+
+Sept 9/08: Finland. The US DSCA announces Finland’s official request for equipment, to support the 3rd phase of its F-18 Mid-Life Upgrade Program to modernize its 63 F/A-18C and F/A-18D Hornet aircraft. The contracts could be worth up to $406 million. Read “Finland Requests 3rd Upgrade Phase for its F-18s” for full details.
+
+Sept 4/08: Australia. Australia has initially decide to replace 49 center barrel sections in its Hornet fleet, and has already begun the process. In parallel, however, it also ran a full scale fatigue testing program for removed center barrel sections, courtesy of Australia’s DSTO, QinetiQ-Aerostructures, and Fortburn. The Hon. Warren Snowdon MP, Australia’s Minister for Defence Science and Personnel under Defence Minister Joel Fitzgibbon, announced external link that in light of this testing:
+
+“…the actual life of the Hornet centre barrels is 10%, or 2 years, greater than originally certified… These findings are thanks to Australia’s internationally recognised world-leading expertise in testing and managing ageing aircraft, and is the result of decades of experience developing this capability.”
+
+In response, Australia’s center barrel replacement program may drop from 49 aircraft to 10, a move that would save up to A$ 400 million (currently about $330 million) and leave more aircraft available for missions.
+
+Aug 14/08: Boeing subsidiary McDonnell Douglas Corp. received a $17.4 million modification to a previously awarded firm-fixed-price, cost plus fixed fee contract (N00383-06-D-001J) to incorporate post production and performance based logistics support requirements. This support is designed to ensure the continued safe and effective operations of fielded F/A-18 A-D aircraft in the US Navy and US Marine Corps ($12.6 million; 72%); and by the governments of Australia ($794,520; 5%), Canada ($1.5 million; 8%), Spain ($1 million; 6%), Finland ($677,991; 4%), Switzerland ($360,183; 2%), Kuwait ($423,744; 2%), and Malaysia ($84,749; 1%).
+
+Work will be performed in St. Louis, MO (76%); El Segundo, CA (21%); Warner Robins, GA (2%); and Santa Clarita, CA (1%), and is expected to be complete in December 2008.
+
+July 10/08: Australia. L-3 Communications MAS in Montreal, Canada announces a contract under Australia’s F/A-18 Centre Barrel Replacement (CBR) program, which is part of their Structural Refurbishment Project Phase 2 (SRP2). L-3 MAS began its SRP relationship with Australia’s DMO in 2002, and Australia’s initial CBR contract with was awarded in December 2005. The second phase of that CBR contract is worth up to USD$ 106 million, and was awarded n June 2008.
+
+Under this new phase, L-3 MAS will deliver 4 low rate initial production (LRIP) aircraft followed by 4 full-rate production aircraft between May 2008 – June 2010, while providing ancillary services such as program management, engineering services, discrete modifications, spares and kits. The aircraft are inducted and prepared by BAE Systems Australia in Williamtown before being airlifted to the L-3 MAS F/A-18 CBR facility in Mirabel, Canada. Once re-spliced and repaired by L-3 MAS, the aircraft are returned to Williamtown for final assembly, flight testing and delivery to the DMO. The contract allows for options that could extend center-barrel replacement production to 2014.
+
+The L-3 release briefly discusses the Mirabel facility’s use of lean manufacturing principles, and makes vague references to a recent contract with Spain involving its EA-18s. “L-3 MAS Wins Second Phase of Major F/A-18 Centre Barrel Contract with Australia and Is Awarded New Contract with Spain” was not posted the web.
+
+July 1/08: General Electric Aviation in Lynn, MA received a $30.8 million 3-month extension of a previously awarded requirements contract (N00383-03-D-011M) for repair or replacement components and program support for the F404 engine used on the F/A-18 A-D aircraft.
+
+This award combines an effort between the U.S. Navy (90%) and the Governments of Spain (1%); Canada (1%); Australia (1%); Kuwait (1%); and Switzerland (1%) under the Foreign Military Sales Program. DID is aware that this adds up to 95%, but that’s what was in the DefenseLINK announcement.
+
+Work will be performed in Jacksonville, FL (90%) and Lynn, MA (10%), and is expected to be complete by September 2008. The Naval Inventory Control Point manages this contract.
+
+June 16/08: USN/ Finland. Northrup Grumman Corp Integrated Systems, in El Segundo, CA received a $48.3 million firm-fixed-price contract for 20 center barrel aircraft sections and 6 engine nacelles (5 for the U.S. Navy and 1 for the Government of Finland’s F/A-18 C/D aircraft). In addition, this contract provides for loose and miscellaneous parts.
+
+This contract combines purchases for the United States Navy ($47.2 million; 98%), and Government of Finland ($1.1 million; 2%) under the Foreign Military Sales Program. Work will be performed in El Segundo, CA (85%); and St. Augustine, FL (15%), and is expected to be complete in November 2011. Contract funds in the amount of $2.5 million will expire at the end of the current fiscal year. This contract was not competitively procured by the Naval Air Systems Command in Patuxent River, MD (N00019-08-C-0052).
+
+April 30/08: Northrop Grumman Corp. in El Segundo, CA received a ceiling priced $25 million delivery order under a Basic Ordering Agreement (N00383-06-G-032D, #5115) for aircraft rudders which are spares in support of the F/A-18 aircraft. Work will be performed in El Segundo, CA and is expected to be complete by April 2011. This contract was not competitively procured by the Naval Inventory Control Point.
+
+2007
+Australia; Canada; Kuwait; Switzerland.
+
+F-18, Australia
+
+Australian F/A-18A
+(click to view full)
+Dec 18/07: Switzerland. Switzerland’s makes an official request to the USA for up to $535 million in new equipment and refurbishments under its F/A-18C/D Upgrade 25 Program, in order to extend the useful life of 33 Swiss Air Force (SAF) F/A-18C/Ds. The upgrades include significant upgrades to the avionics and mission computer, 20 ATFLIR surveillance and targeting pods, and 44 sets of AN/ALR-67v3 ECM equipment, among other items, follow a successful trip to the USA to test integration of the F-18s’ new AIM-9X Sidewinder missiles. See “Switzerland’s Hornet Upgrade 25 Program” for full details.
+
+Dec 18/07: Kuwait. DynCorp International LLC in Fort Worth, TX received a $14.1 million modification to a previously awarded cost-plus-fixed-fee contract (N00019-06-C-0308), exercising an option for maintenance and support services for the Kuwaiti Air Force F/A-18 Program under the Foreign Military Sales Program. Work will be performed in Kuwait (90%) and Fort Worth, Texas (10%), and is expected to be complete in December 2008. The Naval Air Systems Command in Patuxent River, MD issued the contract.
+
+Nov 15/07: Northrop Grumman Corp. in El Segundo, CA received $8.7 million for firm-fixed-price order #5095 under a previously awarded basic ordering agreement contract (N00383-06-G-032D) for aircraft rudders which are spares in support of the F/A-18 aircraft. Work will be performed in El Segundo, CA (50%), Wichita, KS (24%), and Emmen, Switzerland (26%); and is expected to be complete by July 2011. This contract was not awarded competitively by the Naval Inventory Control Point.
+
+Nov 9/07: Kuwait. The US Defense Security Cooperation Agency announces external link [PDF] Kuwait’s formal request for technical/logistics support for F/A-18 aircraft as well as associated equipment and services. The principal contractors are: Boeing Company of St. Louis, MO; and General Dynamics of Fairfax, VA. The total value, if all options are exercised, could be as high as $90 million.
+
+The Government of Kuwait has requested a possible sale of continuing logistics support, contractor maintenance, and technical services in support of the F/A-18 aircraft to include contractor engineering technical services, contractor maintenance support, avionics software, engine component improvement and spare parts, technical ground support equipment, spare and repair parts, supply support, publications and technical data, engineering change proposals, U.S. Government and contractor technical and logistics personnel services and other related elements of program support. The estimated cost is $90 million.
+
+Sept 20/07: Multinational. Boeing subsidiary McDonnell Douglas Corp. in St. Louis, MO received a $145.1 million modification to a previously awarded cost-plus-fixed-fee contract (N68936-02-C-0043) for continued system configuration set support for the F/A-18 A-D Hornet, F/A-18 E/F Super Hornet and EA-18G Growler weapons systems for the US Navy and Marine Corps. In addition, this modification provides for unique Foreign Military Sales variants for the governments of Australia, Canada, Finland, Kuwait, Malaysia, Spain, and Switzerland.
+
+This contract also provides for studies and analysis related to avionics integration and acquisition product activities such as integration and testing. Work will be performed in St. Louis, MO (95%) and in China Lake, Calif. (5%), and is expected to be complete in January 2009. The Naval Air Warfare Center Weapons Division in China Lake, Calif. issued the contract.
+
+Aug 22/07: Australia. Australia’s DoD announces external link an important Hornet UpGrade program milestone with the recent completion of the first center barrel replacement for Australia’s F/A-18 A/B Hornets. The prototype aircraft was disassembled in Australia and shipped to Canada where the centre barrel was successfully replaced, with up to 25,000 replacement spare parts required. The prototype aircraft has been returned to Australia for reassembly by the Hornet Industry Coalition at RAAF Base Williamtown, near Newcastle.
+
+The initial low rate production of nine aircraft will continue in Canada following the successful prototype. Full rate production is planned for up to 39 aircraft in Australia once the Hornet industry Coalition has developed a mature supply pipeline and industrial capacity, and has recruited and trained additional skilled workforce. Disassembly and reassembly work will continue at Williamtown, and the requirement to conduct additional aircraft work in Canada has no impact on the current Australian workforce.
+
+Aug 20/07: Canada. Boeing and industry partner L-3 Communications MAS, Inc., deliver the first modernized Phase II CF-18 fighter to the Canadian Department of Defense. Boeing previously completed 2 prototype aircraft, while L-3 provided installation services for the program’s remaining 77 aircraft. The Phase II work is done at the L-3 facility in Mirabel (Montreal), Quebec.
+
+Phase I, completed in August 2006, upgraded the Canadian Hornet fleet’s avionics, radio and weapons capabilities. The USD $150 million Phase II of the CF-18 modernization program adds a data link system, a helmet-mounted sight system, new color cockpit displays and a new chaff- and flare-dispensing electronic warfare system to 79 CF-18 (F/A-18 A/B) Hornets. The program is expected to be completed in March 2010.
+
+Aug 17/07: Northrop Grumman Integrated Systems Western Region in El Segundo, CA received a $25.5 million modification to a previously awarded firm-fixed-price contract (N00019-06-C-0080) for 15 shipsets of U.S. Navy Inlet Nacelles in support of the Service Life Extension Program for the U.S. Navy F/A-18A/B/C/D aircraft. Work will be performed in El Segundo, CA (71%) and at various locations throughout the United States (29%), and work is expected to be completed in December 2010. Contract funds in the amount of $2.9 million will expire at the end of the current fiscal year. The Naval Air Systems Command in Patuxent River MD issued the contract.
+
+Aug 3/07: Canada. Being able to send one’s Hornets into harm’s way is an ancillary aspect of fleet readiness, but it’s worth noting. Canada formally requests ALR-67v3 radar warning receivers for its F/A-18s, then follows that up over time with orders under umbrella contracts that also involve other Hornet operators.
+
+Read “Canada’s Hornet Upgrades: ALR-67 RWRs” to get a spotlight on one Hornet nation’s measures in this area.
+
+April 23/07: Boeing subsidiary McDonnell Douglas Corp. in St. Louis, MO received a $9.1 million ceiling priced delivery order (# 7020) under previously awarded basic ordering agreement contract (N00383-07-G-005H) for repair of 27 F/1-18 outer wing panels. Work will be performed in Montreal, Quebec, Canada (95%), and Mesa, AZ (5%), and is expected to be completed by April 2008. This contract was not awarded competitively. The Naval Inventory Control Point is the contracting activity.
+
+March 7/07: Multinational. An $16.3 million modification to a previously awarded cost-plus-fixed-fee contract (N00019-05-C-0003) for the procurement of CY(Calendar Year) 2007 In Service Support services for the F/A-18 A-D aircraft for the U.S. Navy and the Governments of Switzerland, Finland, Canada, Australia, Kuwait, Malaysia, and Spain, including program management, engineering, and logistics support.
+
+Work will be performed in St. Louis, MO (76%) and El Segundo, CA (24%) and is expected to be complete in Dec. 2007. Contract funds in the amount of $1.4 million will expire at the end of the current fiscal year. This modification combines purchases for the U. S. Navy ($12.3 million; 75.5%); and the Governments of Canada ($1.2 million; 7.5%); Spain ($799,508; 4.9%); Australia ($667,848; 4.1%); Finland ($569,731; 3.5%); Kuwait ($355,950; 2.2%); Switzerland ($302,571; 1.9%); and Malaysia ($71,085; 0.4%) under the Foreign Military Sales Program. The Naval Air Systems Command is the contracting activity.
+
+Jan 18/07: USN/ Australia. Northrop Grumman Systems Corp. Integrated Systems Western Region in El Segundo, CA received a $28.7 million modification to a previously awarded firm-fixed-price contract (N00019-06-C-0080), exercising an option for 32 shipsets of Center Barrel Replacement Plus (CBR+) hardware for the U.S. Navy (23) and the Royal Australian Air Force (9) in support of the Service Life Extension Program for the F/A-18 A-D aircraft.
+
+Work will be performed in El Segundo, CA (83%); Amityville, NY (12.11%); and Ravenswood, WVA (4.89%), and is expected to be complete in December 2009. This contract combines purchases for the U.S. Navy ($20 million; 70%) and the Government of Australia ($87 million; 30%) under the Foreign Military Sales Program. The Naval Air Systems Command in Patuxent River, MD is the contracting activity.
+
+2006
+Restarting part production.
+
+F-18C Wings Folded
+
+US F/A-18C, wings folded
+(click to view full)
+Nov 30/06: Multinational. Boeing subsidiary McDonnell Douglas Corp. received an $11.2 million modification to previously awarded indefinite-delivery/ indefinite-quantity contract #N00019-04-D-0015, exercising an option for unique F/A-18 in-service support for the Governments of Switzerland, Finland, Canada, Australia, Kuwait, Malaysia, and Spain, including program management, engineering, and logistics support. Work will be performed in St. Louis, MO and is expected to be complete in December 2007.
+
+This modification combines purchases for the Governments of Switzerland ($2,805,375; 25%); Finland ($2,244,300; 20%); Canada ($1,683,225; 15%); Australia ($1,122,150; 10%); Kuwait ($1,122,150; 10%); Malaysia ($1,122,150; 10%); and Spain ($1,122,150; 10%) under the Foreign Military Sales Program. The Naval Air Systems Command issued the contract.
+
+Sept 21/06: A $76 million award to Boeing subsidiary McDonnell Douglas for three firm-fixed-price, indefinite-delivery/ indefinite-quantity orders (#7001, #7002, #7003) under a basic ordering agreement contract (N00383-06-D-004H-7000) for procurement of newly manufactured spares in support of the F/A-18 C/D flight surfaces system. Work will be performed in St. Louis, MO and is expected to be complete by July 2011. The Naval Inventory Control Point (NAVICP) issued the contract.
+
+A Nov 8/06 Boeing release external link note that this order is part of a larger 5-year contract worth up to $391 million. It aims to provide more than 3,000 new flight control surfaces for F/A-18 A-D aircraft, and replaces a previous 5-year agreement. Flight control surfaces are the hinged or movable airfoils designed to change the aircraft’s attitude during flight, and some of the surface pieces in question are as large as a compact car.
+
+The parts will be assembled in St. Louis, MO, with deliveries scheduled to begin this year and continuing through 2013. The total $391 million contract comes in annual increments, with the first year’s order being about $89 million and deliveries starting within 6 months.
+
+June 30/06: Part production restart. NAVICP also issued a $59.5 million contract to Boeing for 23 spare inner wings, restarting a portion of the Hornet production line that had closed in 2000 (the Super Hornet is a larger aircraft that looks similar, but does not use the same wings). The inner wing is the largest portion of the wing system, and it is called that because does not fold up when the plane is stowed on an aircraft carrier. The wings will be built in St. Louis with first delivery scheduled for 2009 and final delivery by September 2010.
+
+March 6/06: Australia. L-3 Communications MAS announces external link [PDF] a C$ 20 million ($17.6 million) contract from the Australian Defence Materiel Organisation (DMO) for design and prototype work under the RAAF’s F/A-18 Centre Barrel Replacement (CBR) Program. The work related to this contract actually started on Dec 22/05 and is being performed in the L-3 MAS facilities in Mirabel, QB, Canada.
+
+The CBR prototype efforts are an extension of the structural work being carried out by L-3 MAS under the RAAF Hornet Upgrade Phase 3 (HUGPH3) Structural Refurbishment Program. The center barrel is the aircraft’s mid-fuselage section where the wings attach, and which carries their structural load. The 1st RAAF aircraft is scheduled to arrive Mirabel in April 2006, and the prototype activities are expected to be completed by mid-2007.
+
+Jan 6/06: Northrop Grumman Corp. Air Combat Systems in El Segundo, CA received a $24.8 million modification to a previously awarded firm-fixed-price contract (N00019-06-C-0080) for the procurement of 37 shipsets of F/A-18 Hornet Center Barrel Replacement Plus (CBR+) hardware. It was issued to as part of the Service Life Extension Program for the Navy F/A-18 A-D Hornet aircraft.
+
+The “center barrel” is the crucial center part of the aircraft fuselage that supports the wings and landing gear. This part is may be replaced for crash damage, or just because of the continual hard landing damage sustained by aircraft in the “controlled crashes” of carrier landings.
+
+Dec 21/05: Northrop Grumman Corp. Air Combat Systems in El Segundo, CA received a $5.9 million firm-fixed-price contract for 37 shipsets of Center Barrel Replacement Plus (CBR+) loose parts in support of the Service Life Extension Program for the U.S. Navy F/A-18A/B/C/D aircraft. Work will be performed in El Segundo, CA and is expected to be complete in October 2008. This contract was not competitively procured by the Naval Air Systems Command in Patuxent River, MD (N00019-06-C-0080).
+
+
+Additional Readings
+Background: Aircraft
+US NAVAIR – F/A-18 A-D Hornet external link
+Boeing – History: F/A-18 Hornet Fighter external link
+Global Security – F/A-18 Hornet external link.
+Raytheon – AN/APG-65 Radar external link.
+Raytheon – AN/APG-73 Radar external link. Installed on later model Hornets and upgrades.
+DID – Aging Aircraft: Cracks in USA’s F/A-18 fleet
+Background: Customers & Programs
+DID – Boeing Leads Phase 2 Upgrade of 79 CF-18 Fighters. CF-18s are Canadian aircraft. Done now.
+DID – Stealthy JASSM Cruise Missiles for Finland’s Hornets. Includes details regarding their 3rd Phase upgrade, which began in 2008.
+DID – Switzerland’s Hornet Upgrade 25 Program.
+US GAO (Nov 15/12, #GAO-13-51) – Better Cost Estimates Needed for Extending the Service Life of Selected F-16s and F/A-18s external link
+DID (Sept 21/09) – Project Failure: Australia’s ALR 2002 Protection System. Australia ended up doing what other Hornet customers have done, and adding the Super Hornet’s Raytheon AN/ALR-67v3 system instead.
+DID (Jan 26/07) – Spain Looks to Equip its F-18s with New EW Suite.
+News & Views
+USNI Seapower (Dec 9/13) – ‘No-Drama Option:’ Navy Celebrates 35 Years of the F/A-18 and Derivatives external link
+Gannett’s Navy Times (Feb 28/11) – The plan to keep F/A-18s flying external link. US Navy, but its methods can be extended to others. See entry, above, for more details.
+DID (Aug 18/09) – Higher, Cheaper: RVSM Certifying the Super Hornet. One way to reduce fleet wear and tear is to changed where the planes can fly.
+Categories: Americas - Other, Australia & S. Pacific, Boeing, Contracts - Awards, Contracts - Modifications, Fighters & Attack, GE, L3 Communications, Northrop-Grumman, Spotlight articles, Support & Maintenance, USA
+Stay Up-to-Date on Defense Programs Developments with Free Newsletter
+DID's daily email newsletter keeps you abreast of contract developments, pictures, and data, put in the context of their underlying political, business, and technical drivers.
+
+Your email
+Archives
+MILBIZGEODAY
+Aircraft
+Electronics & IT
+Land Equipment
+Logistics & Support
+Military Overall
+Naval Equipment
+Ordnance & Guns
+Space
+WMD
+White Papers & Events
+
+© 2004-2020 Defense Industry Daily, LLC | About Us | Images on this site | Privacy Policy
+
+Contact us: Editorial | Advertising | Feedback & Support | Subscriptions & Reports
+
+Follow us: Twitter | Google+
+
+LOADING...
