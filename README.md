@@ -1,2 +1,2 @@
-# Report-Characterization
-NLP model for Report Characterization
+# Report-Classification
+NLP model for Report Classification
